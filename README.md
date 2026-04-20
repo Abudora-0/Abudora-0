@@ -17,4 +17,4 @@ I'm a Developer focused on building functional web applications and mastering ef
 * **Goal:** Building clean, maintainable code.
 
 ---
-[LinkedIn](www.linkedin.com/in/m-abdullah-94367b3a1) | [Portfolio](https://abudora-0.github.io/Portfolio/) | [Email](m.abdullah21306gmail.com)
+[LinkedIn](www.linkedin.com/in/m-abdullah-94367b3a1) | [Portfolio](https://abudora-0.github.io/Portfolio/) | [Email Me](mailto:m.abdullah21306@gmail.com)

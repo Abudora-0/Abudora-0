@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abdullah 👋
 
-<!--
-**Abudora-0/Abudora-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Developer focused on building functional web applications and mastering efficient algorithms and surving this CS Degree T_T. 
 
-Here are some ideas to get you started:
+### 💻 Technical Stack
+* **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js)
+* **Software:** C#, C++, MySQL
+* **Concepts:** Data Structures & Algorithms (DSA), OOP, Three-Tier Architecture
+* **Tools:** Git, GitLab, Cursor AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Focus
+* Building scalable web apps with the MERN stack.
+* Solving problems using Data Structures and Algorithms.
+
+### ⚡ Quick Bits
+* **Interests:** Gaming (Valorant) & Manga.
+* **Goal:** Building clean, maintainable code.
+
+---
+[LinkedIn](www.linkedin.com/in/m-abdullah-94367b3a1) | [Portfolio](https://abudora-0.github.io/Portfolio/) | [Email](m.abdullah21306gmail.com)

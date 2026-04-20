@@ -13,7 +13,7 @@ I'm a Developer focused on building functional web applications and mastering ef
 * Solving problems using Data Structures and Algorithms.
 
 ### ⚡ Quick Bits
-* **Interests:** Gaming (Valorant) & Manga.
+* **Interests:** Gaming (Valorant hardstuck B3 :) ) & Manga.
 * **Goal:** Building clean, maintainable code.
 
 ---

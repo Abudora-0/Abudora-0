@@ -1,4 +1,44 @@
-# Hi, I'm Abdullah 👋
+# 💫 About Me:
+
+A software developer focused on building scalable backend architectures, optimizing databases, and engineering clean web applications.
+
+- 🔭 **I’m currently working on:** Full-stack web applications and scalable backend architectures.
+- 👯 **I’m looking to collaborate on:** Open-source developer tools or MERN stack projects.
+- 🤝 **I’m looking for help with:** Advanced system design patterns and production-level deployment.
+- 🌱 **I’m currently learning:** Advanced Data Structures & Algorithms (DSA) and deep-diving into database optimization.
+- 💬 **Ask me about:** C#, MySQL, MongoDB, React, or building 3-tier applications.
+- ⚡ **Fun fact:** I track my PC's hardware stability thresholds like a dev ops engineer just to make sure my competitive gaming matches never crash.
+
+---
+
+## 🌐 Socials:
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.abdullah21306@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-abdullah-94367b3a1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abudora0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abudora0) 
+
+---
+
+## 💻 Tech Stack:
+
+### ⚙️ Backend & Databases
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+### 🌐 Frontend & UI/UX
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Abudora-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abudora-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abudora-0&theme=dark&hide_border=false" width="100%" max-width="400" />
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- # Hi, I'm Abdullah 👋
 
 I'm a Developer focused on building functional web applications and mastering efficient algorithms and surving this CS Degree T_T. 
 
@@ -17,4 +57,4 @@ I'm a Developer focused on building functional web applications and mastering ef
 * **Goal:** Building clean, maintainable code.
 
 ---
-[LinkedIn](www.linkedin.com/in/m-abdullah-94367b3a1) | [Portfolio](https://abudora-0.github.io/Portfolio/) | [Email Me](mailto:m.abdullah21306@gmail.com)
+[LinkedIn](www.linkedin.com/in/m-abdullah-94367b3a1) | [Portfolio](https://abudora-0.github.io/Portfolio/) | [Email Me](mailto:m.abdullah21306@gmail.com) -->

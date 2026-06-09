@@ -1,6 +1,14 @@
 # 💫 About Me:
-Full-stack web applications and scalable backend architectures<br>Open-source developer tools or MERN stack projects<br>Advanced system design patterns and production-level deployment<br>Advanced Data Structures & Algorithms (DSA) and deep-diving into database optimization<br>C#, MySQL, MongoDB, React, or building 3-tier applications<br>I track my PC's hardware stability thresholds like a dev ops engineer just to make sure my competitive gaming matches never crash.
+  A software developer focused on building scalable backend architectures, optimizing databases, and engineering clean web applications.
 
+- 🔭 **I’m currently working on:** Full-stack web applications and scalable backend architectures.
+- 👯 **I’m looking to collaborate on:** Open-source developer tools or MERN stack projects.
+- 🤝 **I’m looking for help with:** Advanced system design patterns and production-level deployment.
+- 🌱 **I’m currently learning:** Advanced Data Structures & Algorithms (DSA) and deep-diving into database optimization.
+- 💬 **Ask me about:** C#, MySQL, MongoDB, React, or building 3-tier applications.
+- ⚡ **Fun fact:** I track my PC's hardware stability thresholds like a dev ops engineer just to make sure my competitive gaming matches never crash.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abudora0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-abdullah-94367b3a1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abudora0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.abdullah21306@gmail.com) 

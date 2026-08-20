@@ -76,7 +76,7 @@ I care about the boring parts that decide whether software actually survives: **
 <td>indexed · low latency</td></tr>
 
 <tr><td><b>◈ Graphics</b></td>
-<td><code>React</code> <code>Tailwind</code> <code>Three.js</code> <code>Figma</code></td>
+<td><code>React</code> <code>Tailwind</code> <code>Figma</code></td>
 <td>locked at 60 fps</td></tr>
 
 <tr><td><b>◈ Storage</b></td>
@@ -104,7 +104,7 @@ I care about the boring parts that decide whether software actually survives: **
 <div align="center">
   <br/>
   <img src="https://skillicons.dev/icons?i=cs,ts,js,python,cpp,dotnet,nodejs,express&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css,vite,figma&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite,figma&theme=dark" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,prisma,docker,git,github,vercel&theme=dark" />
 </div>
 

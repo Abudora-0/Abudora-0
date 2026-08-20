@@ -6,17 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Three+tiers.+Clean+boundaries.;Presentation%2C+then+logic%2C+then+data;Local-first%2C+every+layer+on+your+machine;C%23+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+SQL&center=true&width=620&height=45&color=58A6FF&font=IBM+Plex+Mono&weight=500&size=20&pause=1000" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://abudora-0.github.io/Portfolio/">Portfolio</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/m-abdullah-94367b3a1">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/Abudora0">X</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://instagram.com/abudora0">Instagram</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:m.abdullah21306@gmail.com">Email</a>
-</p>
+<div align="center">
+  <a href="https://abudora-0.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=firefox-browser&logoColor=0d1117" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/m-abdullah-94367b3a1"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/Abudora0"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://instagram.com/abudora0"><img src="https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:m.abdullah21306@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
 <br/>
 
@@ -163,8 +159,11 @@ A browser extension and a web client sharing one SQLite file. That file is the e
 </tr>
 </table>
 
-<div align="right">
-  <sub><a href="https://github.com/Abudora-0?tab=repositories">All 35 repositories</a></sub>
+<div align="center">
+  <br/>
+  <a href="https://github.com/Abudora-0?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse%20all%2035%20repositories-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="All repositories"/>
+  </a>
 </div>
 
 ---
@@ -239,13 +238,17 @@ OPEN TO
 
 ## Open a connection
 
-<a href="https://abudora-0.github.io/Portfolio/">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://linkedin.com/in/m-abdullah-94367b3a1">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:m.abdullah21306@gmail.com">Email</a>
+Open to internships, open source work on developer tooling, and any project where the backend is the interesting part.
 
-<sub>Open to internships, open source work on developer tooling, and any project where the backend is the interesting part.</sub>
+<br/>
+
+<a href="https://linkedin.com/in/m-abdullah-94367b3a1"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://abudora-0.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=firefox-browser&logoColor=0d1117" alt="Portfolio"/></a>
+<a href="mailto:m.abdullah21306@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abudora-0&label=PROFILE%20VIEWS&color=1f6feb&style=flat-square" alt="Profile views"/>
 
 <br/><br/>
 

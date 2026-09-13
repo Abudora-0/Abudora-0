@@ -8,8 +8,7 @@ import { join } from 'node:path';
 import * as icons from 'simple-icons';
 
 import { fetchData, fetchGuestbook, loadCache, saveCache } from './lib/github.mjs';
-import { fetchAniList } from './lib/anilist.mjs';
-import { renderNightstand, renderFridge } from './render/extras.mjs';
+import { renderFridge } from './render/extras.mjs';
 import { localDate, mood, streaks, languages, ago } from './lib/derive.mjs';
 import { renderHeader, renderHeaderMobile } from './render/header.mjs';
 import { fetchWeather, resolveWeather } from './lib/weather.mjs';
@@ -36,7 +35,6 @@ if (args.has('--offline')) {
 } else {
   data = await fetchData(config.login);
   data.weather = await fetchWeather(config.location, config.timezone);
-  data.anilist = config.anilist ? await fetchAniList(config.anilist) : null;
   data.guestbook = await fetchGuestbook(config.login, config.guestbook).catch((err) => {
     console.warn(`📝 guestbook fetch failed (${err.message})`);
     return [];
@@ -72,7 +70,6 @@ for (const link of config.links) out.set(`buttons/${link.id}.svg`, renderButton(
 const guestbookUrl = `https://github.com/${config.login}/${config.login}/issues/new?template=guestbook.yml`;
 out.set('buttons/guestbook.svg', renderButton({ id: 'guestbook', label: 'leave a note on the fridge', icon: 'pen' }, icons));
 out.set('fridge.svg', renderFridge(data.guestbook ?? [], { owner: config.alias.toLowerCase() }));
-if (data.anilist?.reading?.length) out.set('nightstand.svg', renderNightstand(data.anilist));
 
 const repoByName = new Map(data.repos.map((r) => [r.name.toLowerCase(), r]));
 config.featured.forEach((feature, index) => {
@@ -163,9 +160,6 @@ const vars = {
   UPDATED: `${clock}, ${new Date(today + 'T00:00:00Z').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).toLowerCase()}`,
   LOGIN: config.login,
   GUESTBOOK_URL: guestbookUrl,
-  NIGHTSTAND: data.anilist?.reading?.length
-    ? `### 📚 &nbsp;on the nightstand\n\n<p align="center">\n  <a href="${data.anilist.profile}"><img src="assets/nightstand.svg" width="100%" alt="manga i'm currently reading: ${data.anilist.reading.map((m) => m.title.replace(/"/g, '')).join(', ')}"></a>\n</p>\n\n<br>\n`
-    : '',
 };
 
 const template = await readFile(join(ROOT, 'README.template.md'), 'utf8');

@@ -96,7 +96,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <br>
 
-{{NIGHTSTAND}}
 ### 🌆 &nbsp;the city outside my window
 
 <p align="center">

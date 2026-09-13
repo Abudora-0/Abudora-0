@@ -143,14 +143,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <br>
 
-### 📚 &nbsp;on the nightstand
-
-<p align="center">
-  <a href="https://anilist.co/user/6107657"><img src="assets/nightstand.svg" width="100%" alt="manga i'm currently reading: Player, Aridorok, Living with Romeo, Blue Lock, The Novel's Extra, The End Has Come"></a>
-</p>
-
-<br>
-
 ### 🌆 &nbsp;the city outside my window
 
 <p align="center">
@@ -184,6 +176,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 11:16 am pkt, sep 13, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 11:19 am pkt, sep 13, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

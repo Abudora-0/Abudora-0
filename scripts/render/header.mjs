@@ -76,6 +76,7 @@ function defs(t, w, h) {
   <radialGradient id="lamp" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="${C.amber}" stop-opacity="0.55"/><stop offset="0.5" stop-color="${C.amber}" stop-opacity="0.14"/><stop offset="1" stop-color="${C.amber}" stop-opacity="0"/></radialGradient>
   <radialGradient id="screen" cx="0.5" cy="0.5" r="0.7"><stop offset="0" stop-color="#8fb8de" stop-opacity="0.22"/><stop offset="1" stop-color="#8fb8de" stop-opacity="0"/></radialGradient>
   <linearGradient id="cone" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${C.amber}" stop-opacity="0.22"/><stop offset="1" stop-color="${C.amber}" stop-opacity="0"/></linearGradient>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="4"/></filter>
   <linearGradient id="beam" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff3cf" stop-opacity="0.28"/><stop offset="1" stop-color="#fff3cf" stop-opacity="0"/></linearGradient>
 </defs>`;
 }
@@ -194,10 +195,25 @@ ${sky(t, wx, timeName, rng(20251201))}
 }
 
 /** sunbeam through the window on bright days (lamp off, sky not heavy) */
-function sunbeam(t, wx, toX = 900, toY = 420) {
-  if (t.lamp || wx.clouds >= 4 || wx.haze) return '';
-  return `<polygon points="${GX + GW},${GY + 20} ${GX + GW},${GY + GH} ${toX},${toY} ${toX - 340},${toY}" fill="url(#beam)"/>
-${Array.from({ length: 12 }, (_, i) => `<circle class="dust" style="animation-delay:-${(i * 0.8).toFixed(1)}s" cx="${220 + ((i * 53) % 400)}" cy="${170 + ((i * 37) % 200)}" r="1.4" fill="#fff3cf"/>`).join('')}`;
+const sunny = (t, wx) => !t.lamp && wx.clouds < 4 && !wx.haze;
+
+/** a faint shaft of dusty air falling from the window... */
+function sunShaft(t, wx) {
+  if (!sunny(t, wx)) return '';
+  return `<polygon points="${GX + 40},${GY + GH} ${GX + GW},${GY + GH} ${GX + GW + 210},336 ${GX + 150},336" fill="#fff3cf" opacity="0.07" filter="url(#soft)"/>
+${Array.from({ length: 12 }, (_, i) => `<circle class="dust" style="animation-delay:-${(i * 0.8).toFixed(1)}s" cx="${150 + ((i * 53) % 360)}" cy="${250 + ((i * 37) % 80)}" r="1.4" fill="#fff3cf"/>`).join('')}`;
+}
+
+/** ...landing on the desk as a soft, window-shaped patch of light */
+function sunPatch(t, wx) {
+  if (!sunny(t, wx)) return '';
+  // project the glass panes onto the desk: rows further down shift further right
+  const sx = (x, y) => (x + 120 + (y - 336) * 1.4).toFixed(1);
+  const pane = (x0, x1, y0, y1) => `<polygon points="${sx(x0, y0)},${y0} ${sx(x1, y0)},${y0} ${sx(x1, y1)},${y1} ${sx(x0, y1)},${y1}"/>`;
+  const mid = GX + GW / 2;
+  return `<g fill="#fff3cf" opacity="0.16" filter="url(#soft)">
+  ${pane(GX, mid - 4, 338, 360)}${pane(mid + 4, GX + GW, 338, 360)}${pane(GX, mid - 4, 364, 392)}${pane(mid + 4, GX + GW, 364, 392)}
+</g>`;
 }
 
 function desk(w, h, top = 330) {
@@ -288,7 +304,7 @@ export function renderHeader({ config, timeName, weather: wx, clock }) {
 ${wall(W, H)}
 ${fairyLights(W)}
 ${windowBlock(t, wx, timeName)}
-${sunbeam(t, wx)}
+${sunShaft(t, wx)}
 
 <g transform="translate(490 44)">
   <rect x="0" y="0" width="296" height="86" rx="8" fill="${C.woodDark}"/>
@@ -309,6 +325,7 @@ ${sunbeam(t, wx)}
 
 ${t.lamp ? `<ellipse class="glow" cx="930" cy="290" rx="380" ry="230" fill="url(#lamp)"/>` : ''}
 ${desk(W, H)}
+${sunPatch(t, wx)}
 ${deskItems()}
 
 <rect x="566" y="140" width="388" height="188" rx="12" fill="#17151f"/>
@@ -366,11 +383,11 @@ ${wall(W, H)}
 ${fairyLights(W)}
 <g transform="translate(${SHIFT} 0)">
 ${windowBlock(t, wx, timeName)}
-${sunbeam(t, wx, 560, 400)}
+${sunShaft(t, wx)}
 </g>
 ${t.lamp ? `<ellipse class="glow" cx="${W / 2}" cy="330" rx="420" ry="240" fill="url(#lamp)" opacity="0.8"/>` : ''}
 ${desk(W, H)}
-<g transform="translate(${SHIFT} 0)">${deskItems()}</g>
+<g transform="translate(${SHIFT} 0)">${sunPatch(t, wx)}${deskItems()}</g>
 
 <rect x="36" y="392" width="${W - 72}" height="366" rx="18" fill="#17151f"/>
 <rect x="52" y="408" width="${W - 104}" height="334" rx="10" fill="#1b1829"/>

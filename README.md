@@ -139,7 +139,7 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 - <code>19h ago</code> ☕ poured **1** commit into [Wakaru](https://github.com/Abudora-0/Wakaru)
 - <code>21h ago</code> ☕ poured **2** commits into [Bento](https://github.com/Abudora-0/Bento)
 - <code>1d ago</code> ☕ poured **13** commits into [Web-Projects](https://github.com/Abudora-0/Web-Projects)
-- <code>2d ago</code> ☕ pushed to [Aetheria](https://github.com/Abudora-0/Aetheria)
+- <code>2d ago</code> ☕ poured **1** commit into [Aetheria](https://github.com/Abudora-0/Aetheria)
 
 <br>
 
@@ -176,6 +176,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 11:19 am pkt, sep 13, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 11:23 am pkt, sep 13, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

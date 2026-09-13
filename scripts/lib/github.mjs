@@ -116,7 +116,10 @@ export async function fetchData(login) {
   }
   days.sort((a, b) => a.date.localeCompare(b.date));
 
-  const events = await rest(`/users/${login}/events/public?per_page=60`, tk).catch(() => []);
+  const profileRepo = `${login}/${login}`.toLowerCase();
+  const events = (await rest(`/users/${login}/events/public?per_page=100`, tk).catch(() => []))
+    .filter((e) => e.repo.name.toLowerCase() !== profileRepo) // bot refreshes of this profile are noise
+    .sort((a, b) => b.created_at.localeCompare(a.created_at));
   // GitHub dropped commit lists from push events; count them via compare instead
   let compared = 0;
   for (const e of events) {

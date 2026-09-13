@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="rain divider">
+<title>rain divider</title>
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<path d="M0 82 Q 300 70 600 80 T 1200 78" stroke="#4a4266" stroke-width="1.5" fill="none" stroke-dasharray="2 7" stroke-linecap="round"/>
+<line x1="73.23731138545953" y1="-10" x2="70.23731138545953" y2="4" stroke="#8fb8de" stroke-width="1.5" stroke-linecap="round" opacity="0">
+  <animate attributeName="opacity" values="0;.7;0" keyTimes="0;.1;.3" dur="4.09s" begin="-1.15s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 61.04011488340192;-6 61.04011488340192" keyTimes="0;.3;1" dur="4.09s" begin="-1.15s" repeatCount="indefinite"/>
+</line>
+<ellipse cx="67.23731138545953" cy="61.04011488340192" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="4.09s" begin="-1.15s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="4.09s" begin="-1.15s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="4.09s" begin="-1.15s" repeatCount="indefinite"/>
+</ellipse><ellipse cx="67.23731138545953" cy="61.04011488340192" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="4.09s" begin="-2.17s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="4.09s" begin="-2.17s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="4.09s" begin="-2.17s" repeatCount="indefinite"/>
+</ellipse>
+<line x1="221.32853223593963" y1="-10" x2="218.32853223593963" y2="4" stroke="#8fb8de" stroke-width="1.5" stroke-linecap="round" opacity="0">
+  <animate attributeName="opacity" values="0;.7;0" keyTimes="0;.1;.3" dur="4.14s" begin="-1.29s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 61.54591049382716;-6 61.54591049382716" keyTimes="0;.3;1" dur="4.14s" begin="-1.29s" repeatCount="indefinite"/>
+</line>
+<ellipse cx="215.32853223593963" cy="61.54591049382716" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="4.14s" begin="-1.29s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="4.14s" begin="-1.29s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="4.14s" begin="-1.29s" repeatCount="indefinite"/>
+</ellipse><ellipse cx="215.32853223593963" cy="61.54591049382716" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="4.14s" begin="-2.33s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="4.14s" begin="-2.33s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="4.14s" begin="-2.33s" repeatCount="indefinite"/>
+</ellipse>
+<line x1="345.0576131687243" y1="-10" x2="342.0576131687243" y2="4" stroke="#8fb8de" stroke-width="1.5" stroke-linecap="round" opacity="0">
+  <animate attributeName="opacity" values="0;.7;0" keyTimes="0;.1;.3" dur="4.12s" begin="-2.16s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 64.75952503429355;-6 64.75952503429355" keyTimes="0;.3;1" dur="4.12s" begin="-2.16s" repeatCount="indefinite"/>
+</line>
+<ellipse cx="339.0576131687243" cy="64.75952503429355" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="4.12s" begin="-2.16s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="4.12s" begin="-2.16s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="4.12s" begin="-2.16s" repeatCount="indefinite"/>
+</ellipse><ellipse cx="339.0576131687243" cy="64.75952503429355" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="4.12s" begin="-3.19s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="4.12s" begin="-3.19s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="4.12s" begin="-3.19s" repeatCount="indefinite"/>
+</ellipse>
+<line x1="479.48628257887515" y1="-10" x2="476.48628257887515" y2="4" stroke="#8fb8de" stroke-width="1.5" stroke-linecap="round" opacity="0">
+  <animate attributeName="opacity" values="0;.7;0" keyTimes="0;.1;.3" dur="3.72s" begin="-0.05s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 66.87848936899863;-6 66.87848936899863" keyTimes="0;.3;1" dur="3.72s" begin="-0.05s" repeatCount="indefinite"/>
+</line>
+<ellipse cx="473.48628257887515" cy="66.87848936899863" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="3.72s" begin="-0.05s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="3.72s" begin="-0.05s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="3.72s" begin="-0.05s" repeatCount="indefinite"/>
+</ellipse><ellipse cx="473.48628257887515" cy="66.87848936899863" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="3.72s" begin="-0.98s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="3.72s" begin="-0.98s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="3.72s" begin="-0.98s" repeatCount="indefinite"/>
+</ellipse>
+<line x1="635.9725651577503" y1="-10" x2="632.9725651577503" y2="4" stroke="#8fb8de" stroke-width="1.5" stroke-linecap="round" opacity="0">
+  <animate attributeName="opacity" values="0;.7;0" keyTimes="0;.1;.3" dur="3.98s" begin="-0.49s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 68.24848251028807;-6 68.24848251028807" keyTimes="0;.3;1" dur="3.98s" begin="-0.49s" repeatCount="indefinite"/>
+</line>
+<ellipse cx="629.9725651577503" cy="68.24848251028807" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="3.98s" begin="-0.49s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="3.98s" begin="-0.49s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="3.98s" begin="-0.49s" repeatCount="indefinite"/>
+</ellipse><ellipse cx="629.9725651577503" cy="68.24848251028807" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="3.98s" begin="-1.48s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="3.98s" begin="-1.48s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="3.98s" begin="-1.48s" repeatCount="indefinite"/>
+</ellipse>
+<line x1="744.3930041152263" y1="-10" x2="741.3930041152263" y2="4" stroke="#8fb8de" stroke-width="1.5" stroke-linecap="round" opacity="0">
+  <animate attributeName="opacity" values="0;.7;0" keyTimes="0;.1;.3" dur="3.94s" begin="-1.87s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 62.47444272976681;-6 62.47444272976681" keyTimes="0;.3;1" dur="3.94s" begin="-1.87s" repeatCount="indefinite"/>
+</line>
+<ellipse cx="738.3930041152263" cy="62.47444272976681" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="3.94s" begin="-1.87s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="3.94s" begin="-1.87s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="3.94s" begin="-1.87s" repeatCount="indefinite"/>
+</ellipse><ellipse cx="738.3930041152263" cy="62.47444272976681" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="3.94s" begin="-2.85s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="3.94s" begin="-2.85s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="3.94s" begin="-2.85s" repeatCount="indefinite"/>
+</ellipse>
+<line x1="902.0315500685871" y1="-10" x2="899.0315500685871" y2="4" stroke="#8fb8de" stroke-width="1.5" stroke-linecap="round" opacity="0">
+  <animate attributeName="opacity" values="0;.7;0" keyTimes="0;.1;.3" dur="3.11s" begin="-2.17s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 62.865012002743484;-6 62.865012002743484" keyTimes="0;.3;1" dur="3.11s" begin="-2.17s" repeatCount="indefinite"/>
+</line>
+<ellipse cx="896.0315500685871" cy="62.865012002743484" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="3.11s" begin="-2.17s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="3.11s" begin="-2.17s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="3.11s" begin="-2.17s" repeatCount="indefinite"/>
+</ellipse><ellipse cx="896.0315500685871" cy="62.865012002743484" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="3.11s" begin="-2.95s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="3.11s" begin="-2.95s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="3.11s" begin="-2.95s" repeatCount="indefinite"/>
+</ellipse>
+<line x1="1009.1351165980795" y1="-10" x2="1006.1351165980795" y2="4" stroke="#8fb8de" stroke-width="1.5" stroke-linecap="round" opacity="0">
+  <animate attributeName="opacity" values="0;.7;0" keyTimes="0;.1;.3" dur="3.41s" begin="-1.57s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 68.21031378600823;-6 68.21031378600823" keyTimes="0;.3;1" dur="3.41s" begin="-1.57s" repeatCount="indefinite"/>
+</line>
+<ellipse cx="1003.1351165980795" cy="68.21031378600823" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="3.41s" begin="-1.57s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="3.41s" begin="-1.57s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="3.41s" begin="-1.57s" repeatCount="indefinite"/>
+</ellipse><ellipse cx="1003.1351165980795" cy="68.21031378600823" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="3.41s" begin="-2.42s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="3.41s" begin="-2.42s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="3.41s" begin="-2.42s" repeatCount="indefinite"/>
+</ellipse>
+<line x1="1151.1358024691358" y1="-10" x2="1148.1358024691358" y2="4" stroke="#8fb8de" stroke-width="1.5" stroke-linecap="round" opacity="0">
+  <animate attributeName="opacity" values="0;.7;0" keyTimes="0;.1;.3" dur="2.64s" begin="-1.14s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 65.89306412894376;-6 65.89306412894376" keyTimes="0;.3;1" dur="2.64s" begin="-1.14s" repeatCount="indefinite"/>
+</line>
+<ellipse cx="1145.1358024691358" cy="65.89306412894376" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="2.64s" begin="-1.14s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="2.64s" begin="-1.14s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="2.64s" begin="-1.14s" repeatCount="indefinite"/>
+</ellipse><ellipse cx="1145.1358024691358" cy="65.89306412894376" rx="0" ry="0" fill="none" stroke="#8fb8de" stroke-width="1.2">
+  <animate attributeName="rx" values="0;0;26" keyTimes="0;.3;1" dur="2.64s" begin="-1.80s" repeatCount="indefinite"/>
+  <animate attributeName="ry" values="0;0;6" keyTimes="0;.3;1" dur="2.64s" begin="-1.80s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.8;0" keyTimes="0;.3;1" dur="2.64s" begin="-1.80s" repeatCount="indefinite"/>
+</ellipse>
+
+</svg>

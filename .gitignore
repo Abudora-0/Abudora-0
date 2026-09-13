@@ -1,0 +1,4 @@
+node_modules/
+.preview/
+.claude/
+scripts/data/cache.json

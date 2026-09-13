@@ -1,28 +1,28 @@
-name: Generate Contribution Snake
+name: 🐍 feed the contribution snake
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
+      - name: Generate cozy snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%231f6feb&color_dots=%23eff2f5,%23a5d6ff,%2358a6ff,%231f6feb,%230a3069
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2358a6ff&color_dots=%230d1117,%2321262d,%231f6feb,%2358a6ff,%23a5d6ff
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%236b4f3f&color_dots=%23efe8da,%23f3d9b1,%23f2b48c,%23e0876a,%23b5566b
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23eb9f9f&color_dots=%232a2540,%235b4a6e,%239c6f7a,%23e0a27a,%23f6c177
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

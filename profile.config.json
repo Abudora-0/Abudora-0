@@ -1,0 +1,210 @@
+{
+  "login": "Abudora-0",
+  "name": "M. Abdullah",
+  "alias": "Abudora",
+  "role": "full stack developer",
+  "timezone": "Asia/Karachi",
+  "timezoneLabel": "PKT",
+  "typing": [
+    "hi, i'm abdullah (abudora)",
+    "full stack developer @ uet lahore",
+    "building cozy, local-first things",
+    "grab a coffee & stay a while ~"
+  ],
+  "links": [
+    {
+      "id": "portfolio",
+      "label": "portfolio",
+      "url": "https://abudora.netlify.app/",
+      "icon": "globe"
+    },
+    {
+      "id": "linkedin",
+      "label": "linkedin",
+      "url": "https://www.linkedin.com/in/m-abdullah-94367b3a1/",
+      "icon": "linkedin"
+    },
+    {
+      "id": "email",
+      "label": "say hi",
+      "url": "mailto:m.abdullah21306@gmail.com",
+      "icon": "mail"
+    },
+    {
+      "id": "x",
+      "label": "@abudora0",
+      "url": "https://x.com/Abudora0",
+      "icon": "siX"
+    },
+    {
+      "id": "instagram",
+      "label": "instagram",
+      "url": "https://instagram.com/abudora0",
+      "icon": "siInstagram"
+    }
+  ],
+  "stack": [
+    {
+      "shelf": "frontend",
+      "items": [
+        {
+          "name": "Next.js",
+          "icon": "siNextdotjs"
+        },
+        {
+          "name": "React",
+          "icon": "siReact"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "siTypescript"
+        },
+        {
+          "name": "Tailwind",
+          "icon": "siTailwindcss"
+        },
+        {
+          "name": "Framer",
+          "icon": "siFramer"
+        },
+        {
+          "name": "Vite",
+          "icon": "siVite"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "siJavascript"
+        }
+      ]
+    },
+    {
+      "shelf": "backend & data",
+      "items": [
+        {
+          "name": "Node.js",
+          "icon": "siNodedotjs"
+        },
+        {
+          "name": "Express",
+          "icon": "siExpress"
+        },
+        {
+          "name": "FastAPI",
+          "icon": "siFastapi"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "siMongodb"
+        },
+        {
+          "name": "Postgres",
+          "icon": "siPostgresql"
+        },
+        {
+          "name": "Prisma",
+          "icon": "siPrisma"
+        },
+        {
+          "name": "Redis",
+          "icon": "siRedis"
+        }
+      ]
+    },
+    {
+      "shelf": "tools, desktop & ai",
+      "items": [
+        {
+          "name": "Python",
+          "icon": "siPython"
+        },
+        {
+          "name": "Rust",
+          "icon": "siRust"
+        },
+        {
+          "name": "Tauri",
+          "icon": "siTauri"
+        },
+        {
+          "name": "Ollama",
+          "icon": "siOllama"
+        },
+        {
+          "name": "Docker",
+          "icon": "siDocker"
+        },
+        {
+          "name": "Stripe",
+          "icon": "siStripe"
+        },
+        {
+          "name": "Vercel",
+          "icon": "siVercel"
+        }
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "repo": "Aetheria",
+      "blurb": "social media scheduling & analytics suite for creators",
+      "chips": [
+        "Next.js",
+        "MongoDB",
+        "Stripe"
+      ]
+    },
+    {
+      "repo": "Kanzen",
+      "blurb": "one dashboard for anime, manga, books & movies",
+      "chips": [
+        "MERN",
+        "Redis",
+        "BullMQ"
+      ]
+    },
+    {
+      "repo": "Cortex",
+      "blurb": "your whole UET semester: marks, CGPA lab, timetable",
+      "chips": [
+        "Next.js",
+        "Prisma",
+        "NextAuth"
+      ]
+    },
+    {
+      "repo": "Wakaru",
+      "blurb": "dialect-aware translator & raw manga reader extension",
+      "chips": [
+        "MV3",
+        "OCR",
+        "TypeScript"
+      ]
+    },
+    {
+      "repo": "Nexus",
+      "blurb": "chat with your PDFs, RAG running fully local",
+      "chips": [
+        "FastAPI",
+        "Ollama",
+        "React"
+      ],
+      "lang": {
+        "name": "python",
+        "color": "#3572A5"
+      }
+    },
+    {
+      "repo": "Beacon",
+      "blurb": "control center for every local dev server on windows",
+      "chips": [
+        "Tauri",
+        "Rust",
+        "React"
+      ]
+    }
+  ],
+  "hideFromMixtape": [
+    "Abudora-0"
+  ]
+}

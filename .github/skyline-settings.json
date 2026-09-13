@@ -1,0 +1,19 @@
+{
+  "type": "normal",
+  "fileName": "profile-cozy.svg",
+  "backgroundColor": "#1e1b2e",
+  "foregroundColor": "#f3e9d2",
+  "strongColor": "#f6c177",
+  "weakColor": "#a59fbf",
+  "radarColor": "#eb9f9f",
+  "growingAnimation": true,
+  "contribColors": ["#2a2540", "#5b4a6e", "#9c6f7a", "#e0a27a", "#f6c177"],
+  "l10n": {
+    "commit": "commits",
+    "repo": "repos",
+    "review": "reviews",
+    "pullreq": "pull reqs",
+    "issue": "issues",
+    "contrib": "contributions"
+  }
+}

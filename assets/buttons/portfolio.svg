@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="44" viewBox="0 0 135 44" role="img" aria-label="portfolio">
+<title>portfolio</title>
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<rect x="1" y="1" width="133" height="42" rx="21" fill="#2a2540" stroke="#f6c177" stroke-opacity="0.55" stroke-width="1.5"/>
+<circle cx="23" cy="22" r="14" fill="#f6c177" opacity="0.16"/>
+<g transform="translate(15 14) scale(0.667)" color="#f6c177" style="color:#f6c177"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><ellipse cx="12" cy="12" rx="4" ry="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M3 12h18" stroke="currentColor" stroke-width="2"/></g>
+<text x="44" y="27" font-size="14" fill="#f3e9d2">portfolio</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="210" viewBox="0 0 495 210" role="img" aria-label="contribution streak: current 4 days, longest 13 days">
+<title>contribution streak: current 4 days, longest 13 days</title>
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  
+  .flame { animation: flame 1.6s ease-in-out infinite; transform-box: view-box; }
+  @keyframes flame { 0%,100% { transform: scale(1,1) rotate(0); } 30% { transform: scale(.94,1.06) rotate(-2deg); } 60% { transform: scale(1.04,.96) rotate(2deg); } }
+  .halo { animation: halo 2.4s ease-in-out infinite; }
+  @keyframes halo { 0%,100% { opacity: .1; } 50% { opacity: .22; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <linearGradient id="skbg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#2a2540"/><stop offset="1" stop-color="#1e1b2e"/>
+  </linearGradient>
+  <radialGradient id="skglow" cx="0.85" cy="0" r="0.9">
+    <stop offset="0" stop-color="#f6c177" stop-opacity="0.13"/><stop offset="1" stop-color="#f6c177" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect x="1" y="1" width="493" height="208" rx="18" fill="url(#skbg)" stroke="#4a4266" stroke-width="1.5"/>
+<rect x="1" y="1" width="493" height="208" rx="18" fill="url(#skglow)"/>
+<text x="28" y="40" font-size="16" font-weight="700" fill="#f6c177">🕯️ candle streak</text>
+<text x="467" y="40" font-size="11" fill="#a59fbf" text-anchor="end">1,052 contributions all-time</text>
+<line x1="28" y1="54" x2="467" y2="54" stroke="#4a4266" stroke-dasharray="3 5"/>
+<g text-anchor="middle">
+  <text x="112" y="120" font-size="46" font-weight="800" fill="#f6c177">4</text>
+  <text x="112" y="146" font-size="12" fill="#f3e9d2">current streak</text>
+  <text x="112" y="166" font-size="11" fill="#a59fbf">days in a row</text>
+
+  <text x="383" y="120" font-size="46" font-weight="800" fill="#eb9f9f">13</text>
+  <text x="383" y="146" font-size="12" fill="#f3e9d2">longest streak</text>
+  <text x="383" y="166" font-size="11" fill="#a59fbf">ended sep 8, 2026</text>
+</g>
+<g>
+  <ellipse cx="247.5" cy="110.61538461538461" rx="26" ry="30" fill="#f6c177" opacity="0.12" class="halo"/>
+  <g class="flame" style="transform-origin:247.5px 126.61538461538461px">
+    <path d="M247.5 92.61538461538461 C 259.5 108.61538461538461 257.5 122.61538461538461 247.5 124.61538461538461 C 237.5 122.61538461538461 235.5 108.61538461538461 247.5 92.61538461538461Z" fill="#f6c177"/>
+    <path d="M247.5 106.61538461538461 C 252.5 114.61538461538461 251.5 121.61538461538461 247.5 122.61538461538461 C 243.5 121.61538461538461 242.5 114.61538461538461 247.5 106.61538461538461Z" fill="#fff3cf"/>
+  </g>
+  <line x1="247.5" y1="126.61538461538461" x2="247.5" y2="132.6153846153846" stroke="#1e1b2e" stroke-width="2"/>
+  <rect x="231.5" y="126.61538461538461" width="32" height="49.38461538461539" rx="4" fill="#f3e9d2"/>
+  <path d="M231.5 132.6153846153846 q 6 10 10 0 q 4 16 10 2 q 5 8 12 -2" stroke="#e9dcc0" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="247.5" cy="180" rx="34" ry="8" fill="#3a3354"/>
+  <rect x="217.5" y="174" width="60" height="8" rx="4" fill="#4a4266"/>
+</g>
+<text x="247.5" y="198" font-size="10.5" fill="#a59fbf" text-anchor="middle">best day: 73 contributions on sep 2, 2026</text>
+</svg>

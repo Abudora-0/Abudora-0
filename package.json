@@ -1,0 +1,16 @@
+{
+  "name": "abudora-cozy-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generator for a cozy, self-hosted GitHub profile README",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:offline": "node scripts/build.mjs --offline"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "simple-icons": "^16.30.0"
+  }
+}

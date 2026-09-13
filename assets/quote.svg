@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="210" viewBox="0 0 495 210" role="img" aria-label="quote of the day: First, solve the problem. Then, write the code. (John Johnson)">
+<title>quote of the day: First, solve the problem. Then, write the code. (John Johnson)</title>
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<rect x="1" y="1" width="493" height="208" rx="18" fill="#1e1b2e" stroke="#4a4266" stroke-width="1.5"/>
+<g transform="rotate(-1.6 247.5 105)">
+  <rect x="44" y="26" width="411" height="164" rx="4" fill="#000" opacity="0.28" transform="translate(5 6)"/>
+  <rect x="40" y="22" width="415" height="164" rx="4" fill="#f6e3b4"/>
+  <path d="M415 186 L455 146 V186Z" fill="#e5cd96"/>
+  <rect x="201.5" y="12" width="92" height="24" fill="#f3e9d2" opacity="0.55" transform="rotate(3 247.5 24)"/>
+  <text x="60" y="52" font-size="11" fill="#9c7f5a">note to self · sep 13</text>
+  <text x="60" y="81" font-size="17" fill="#4e3a30" style="font-family:'Caveat','Segoe Print','Bradley Hand','Comic Sans MS','Chalkboard SE',cursive">“First, solve the problem. Then, write</text>
+  <text x="60" y="105" font-size="17" fill="#4e3a30" style="font-family:'Caveat','Segoe Print','Bradley Hand','Comic Sans MS','Chalkboard SE',cursive">the code.”</text>
+  <text x="431" y="170" font-size="13" fill="#8a6a4a" text-anchor="end" style="font-family:'Caveat','Segoe Print','Bradley Hand','Comic Sans MS','Chalkboard SE',cursive">— John Johnson</text>
+</g>
+</svg>

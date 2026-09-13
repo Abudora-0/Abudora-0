@@ -1,257 +1,166 @@
+<!--
+  ☕ this README is brewed automatically by scripts/build.mjs
+  edit README.template.md + profile.config.json instead of this file
+-->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=170&color=0:0d1117,50:1f6feb,100:58a6ff&section=header&text=Abdullah%20Akbar&fontSize=58&fontAlignY=42&desc=Backend%20Engineer%20at%20UET%20Lahore&descAlignY=64&descSize=16&animation=fadeIn&fontColor=e6edf3" alt="Abdullah Akbar" />
+
+<img src="assets/header.svg" width="100%" alt="a cozy animated desk scene with rain on the window, a sleeping cat, a steaming mug and a laptop typing: hi, i'm abdullah (abudora), full stack developer">
+
+<br>
+
+<a href="https://abudora.netlify.app/"><img src="assets/buttons/portfolio.svg" height="40" alt="portfolio"></a> <a href="https://www.linkedin.com/in/m-abdullah-94367b3a1/"><img src="assets/buttons/linkedin.svg" height="40" alt="linkedin"></a> <a href="mailto:m.abdullah21306@gmail.com"><img src="assets/buttons/email.svg" height="40" alt="say hi"></a> <a href="https://x.com/Abudora0"><img src="assets/buttons/x.svg" height="40" alt="@abudora0"></a> <a href="https://instagram.com/abudora0"><img src="assets/buttons/instagram.svg" height="40" alt="instagram"></a>
+
+<br>
+
+<sub><i>🌤️ it's a drizzly morning in lahore, the lamp is off and the kettle is on</i></sub>
+
 </div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+### ☕ &nbsp;pull up a chair
+
+hey, i'm **m. abdullah**, though most of the internet knows me as **abudora**. i'm a computer science student at **uet lahore** and a **full stack developer** who builds cozy, fast and mostly **local-first** things for the web and the desktop.
+
+i like software that feels calm to use: no accounts you didn't ask for, no telemetry, no surprise cloud bill. the data stays on the box it was made on, and the interface still holds up on a slow connection.
+
+<details>
+<summary><b>🍪 &nbsp;a few more things about me</b> <sub>(click to open the cookie jar)</sub></summary>
+<br>
+
+```text
+~/abudora $ cat about.txt
+
+  building    ▸ full stack apps with next.js, react & typescript
+              ▸ desktop tools with tauri + rust
+              ▸ local ai & rag pipelines with ollama
+
+  learning    ▸ advanced data structures & algorithms
+              ▸ database internals: indexes, query plans, locking
+              ▸ caching layers & background job queues
+              ▸ system design & production observability
+
+  off hours   ▸ a manga backlog that grows faster than it drains
+              ▸ a valorant rank i've stopped defending in public
+              ▸ tuning my pc like a car: fan curves, thermals, stability runs
+
+  open to     ▸ internships, full stack or backend
+              ▸ open source developer tooling
+              ▸ anything that removes a cloud dependency
+```
+
+</details>
+
+<br>
+
+### 🫙 &nbsp;the spice shelf
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Three+tiers.+Clean+boundaries.;Presentation%2C+then+logic%2C+then+data;Local-first%2C+every+layer+on+your+machine;C%23+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+SQL&center=true&width=620&height=45&color=58A6FF&font=IBM+Plex+Mono&weight=500&size=20&pause=1000" alt="Typing SVG" />
+  <img src="assets/stack.svg" width="100%" alt="tech stack jars: next.js, react, typescript, tailwind, framer, vite, javascript, node.js, express, fastapi, mongodb, postgres, prisma, redis, python, rust, tauri, ollama, docker, stripe, vercel">
 </p>
 
-<div align="center">
-  <a href="https://abudora-0.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=firefox-browser&logoColor=0d1117" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/m-abdullah-94367b3a1"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/Abudora0"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://instagram.com/abudora0"><img src="https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:m.abdullah21306@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
+<br>
 
-<br/>
+### 📼 &nbsp;side a · featured tapes
 
----
+<p align="center">
+<a href="https://aetheriia.vercel.app/"><img src="assets/tapes/aetheria.svg" width="49%" alt="Aetheria: social media scheduling & analytics suite for creators"></a>
+<a href="https://kanzenn.vercel.app"><img src="assets/tapes/kanzen.svg" width="49%" alt="Kanzen: one dashboard for anime, manga, books & movies"></a>
+<a href="https://cortexlms.vercel.app/"><img src="assets/tapes/cortex.svg" width="49%" alt="Cortex: your whole UET semester: marks, CGPA lab, timetable"></a>
+<a href="https://wakaruu.vercel.app/"><img src="assets/tapes/wakaru.svg" width="49%" alt="Wakaru: dialect-aware translator & raw manga reader extension"></a>
+<a href="https://nexus-chatboot.vercel.app"><img src="assets/tapes/nexus.svg" width="49%" alt="Nexus: chat with your PDFs, RAG running fully local"></a>
+<a href="https://github.com/Abudora-0/Beacon"><img src="assets/tapes/beacon.svg" width="49%" alt="Beacon: control center for every local dev server on windows"></a>
+</p>
 
-I build software in three tiers, and I think the boundaries between them are the most important lines in a codebase. This README is organised the same way.
+<details>
+<summary><b>🎧 &nbsp;the full mixtape</b> <sub>(38 tracks, auto-updated every few hours)</sub></summary>
+<br>
 
-```text
-        ╔═══════════════════════════════════════════════════════════════╗
-        ║                                                               ║
-   ┌────╨────────────────────────────────────────────────────────┐      ║
-   │  TIER 1 · PRESENTATION                                      │      ║
-   │  React · Next.js · Tailwind · Vite                          │      ║
-   │  routing, state, rendering, accessibility                   │      ║
-   └────╥────────────────────────────────────────────────────────┘      ║
-        ║   typed contracts, and no business logic crosses this line    ║
-   ┌────╨────────────────────────────────────────────────────────┐      ║
-   │  TIER 2 · APPLICATION                                       │      ║
-   │  Node.js · Express · .NET · Python                          │      ║
-   │  validation, auth, services, orchestration                  │      ║
-   └────╥────────────────────────────────────────────────────────┘      ║
-        ║   parameterised queries, and no raw SQL above this line       ║
-   ┌────╨────────────────────────────────────────────────────────┐      ║
-   │  TIER 3 · DATA                                              │      ║
-   │  MySQL · SQL Server · MongoDB · SQLite · Prisma             │      ║
-   │  schema, indexes, migrations, transactions                  │      ║
-   └────╥────────────────────────────────────────────────────────┘      ║
-        ║                                                               ║
-        ╚═══════════════════════ runs on YOUR machine ══════════════════╝
-```
+| # | track | liner notes | flavor | listen |
+|:-:|:--|:--|:--|:-:|
+| 01 | **[Summer-Projects](https://github.com/Abudora-0/Summer-Projects)** | A full stack developer with a shipping problem. Nine products designed, built and deploy… | typescript | [▶ live](https://abudora-summer.vercel.app) |
+| 02 | **[Cortex](https://github.com/Abudora-0/Cortex)** | Your whole UET semester in one place: marks & CGPA, a GPA what-if lab, timetable, assign… | typescript | [▶ live](https://cortexlms.vercel.app/) |
+| 03 | **[Wakaru](https://github.com/Abudora-0/Wakaru)** | Translator, multilingual dictionary and raw manga reader. Dialect aware, built entirely… | typescript | [▶ live](https://wakaruu.vercel.app/) |
+| 04 | **[Bento](https://github.com/Abudora-0/Bento)** | Self-hosted bookmark manager in two pieces: a browser extension that captures tabs as co… | typescript | [▶ live](https://bentto.vercel.app/) |
+| 05 | **[Web-Projects](https://github.com/Abudora-0/Web-Projects)** | 40 mini web projects built from scratch - browser games, productivity tools, UI clones a… | javascript | [▶ live](https://abudora-web.vercel.app) |
+| 06 | **[Aetheria](https://github.com/Abudora-0/Aetheria)** | Automated social media scheduling and analytics suite for content creators: multi-networ… | typescript | [▶ live](https://aetheriia.vercel.app/) |
+| 07 | **[Kanzen](https://github.com/Abudora-0/Kanzen)** | Unified media and cross-platform tracker dashboard for anime, manga, books, and movies.… | typescript | [▶ live](https://kanzenn.vercel.app) |
+| 08 | **[Resume-Projects](https://github.com/Abudora-0/Resume-Projects)** | Eight shipped products, eight distinct design languages, one exhibition catalogue. Next.… | typescript | [▶ live](https://abudora-resume.vercel.app) |
+| 09 | **[Nexus](https://github.com/Abudora-0/Nexus)** | Document chat app powered by RAG - upload PDFs and ask questions. Runs fully local via O… | css | [▶ live](https://nexus-chatboot.vercel.app) |
+| 10 | **[Get-Me-a-Chai](https://github.com/Abudora-0/Get-Me-a-Chai)** | A full-stack creator support platform inspired by Patreon and Buy Me a Coffee. Fans can… | javascript | [▶ live](https://get-me-a-chaii.netlify.app/) |
+| 11 | **[Nebula](https://github.com/Abudora-0/Nebula)** | A clean, minimal password manager that runs entirely in your browser. No accounts, no se… | javascript | [▶ live](https://nebuula.vercel.app/) |
+| 12 | **[DeLinks](https://github.com/Abudora-0/DeLinks)** | A clean, minimal URL shortener that lets you create custom short links instantly - no ac… | javascript | [▶ live](https://delink.netlify.app/) |
+| 13 | **[Tessera](https://github.com/Abudora-0/Tessera)** | A generative wallpaper studio. Draw wallpapers from a seed and export them pixel perfect… | typescript | [▶ live](https://tesseera.vercel.app) |
+| 14 | **[Dish-It](https://github.com/Abudora-0/Dish-It)** | An animated recipe kitchen for food, shakes and drinks. Explore by flavor and mood, cook… | typescript | [▶ live](https://dish-itt.vercel.app) |
+| 15 | **[Wanderlens](https://github.com/Abudora-0/Wanderlens)** | Spin the globe, pick anywhere on Earth, and discover the best places to visit there. Nex… | typescript | [▶ live](https://wanderlenss.vercel.app) |
+| 16 | **[Dossier](https://github.com/Abudora-0/Dossier)** | Kanban board for tracking job applications through every hiring stage, with drag-and-dro… | typescript | [▶ live](https://dosssier.vercel.app/) |
+| 17 | **[CODEREVIEW.SYS](https://github.com/Abudora-0/CODEREVIEW.SYS)** | AI-powered code review tool that scores your code and detects bugs, security vulnerabili… | typescript | [▶ live](https://codereview-sys.vercel.app/) |
+| 18 | **[DarazSmart](https://github.com/Abudora-0/DarazSmart)** | Shop Daraz.pk smarter - live price comparison, virtual cart, coupon collector, and price… | typescript | [▶ live](https://darazsmart.vercel.app/) |
+| 19 | **[Kernal](https://github.com/Abudora-0/Kernal)** | GitHub Dev Dashboard analytics dashboard with contribution graphs, coding streaks, langu… | typescript | [▶ live](https://kernall.vercel.app/) |
+| 20 | **[Mern-Projects](https://github.com/Abudora-0/Mern-Projects)** | A showcase of full-stack web applications built with the MERN stack and modern web techn… | html | [▶ live](https://abudora-mern.netlify.app/) |
+| 21 | **[Cadence](https://github.com/Abudora-0/Cadence)** | Type to a tempo. A focus-first typing trainer with a live keystroke waveform, a tempo-lo… | typescript | [▶ live](https://cadencce.vercel.app) |
+| 22 | **[Deez-Nutz](https://github.com/Abudora-0/Deez-Nutz)** | Deez Nutz: a neo brutalist arcade for downloading the internet's finest memes and gifs.… | typescript | [▶ live](https://deez-nutzz.vercel.app) |
+| 23 | **[Linktree-Clone](https://github.com/Abudora-0/Linktree-Clone)** | A full-stack Linktree clone where users can create a personalized page with a custom han… | javascript | [▶ live](https://linkedtreee.netlify.app/) |
+| 24 | **[Hidayah](https://github.com/Abudora-0/Hidayah)** | Prayer times, the Hijri calendar and the full Quran in Arabic, English and Urdu with taf… | typescript | [▶ live](https://hidayyah.vercel.app) |
+| 25 | **[Morphly](https://github.com/Abudora-0/Morphly)** | Paste raw text or AI-generated output, export a native .docx, .xlsx, or .pptx file. No a… | typescript | [▶ live](https://morphlyy.vercel.app/) |
+| 26 | **[Preface](https://github.com/Abudora-0/Preface)** | Dump your project in, get a well organised README out. Local-first README generator with… | typescript | [▶ live](https://prefacee.vercel.app/) |
+| 27 | **[Roleify](https://github.com/Abudora-0/Roleify)** | A CV maker where the whole interface changes mood to match your profession. Six role bas… | typescript | [▶ live](https://roleify.vercel.app) |
+| 28 | **[Intern-48](https://github.com/Abudora-0/Intern-48)** | Hey ! My name is Abdullah Akbar and i am currently doing BS in Computer Science from UET… | html | · |
+| 29 | **[Chronos](https://github.com/Abudora-0/Chronos)** | A modern automation console for Windows - run, schedule, and monitor your backup, sync,… | python | · |
+| 30 | **[Omnikit](https://github.com/Abudora-0/Omnikit)** | Self-hosted web toolkit - 43 tools for images, PDFs, and utilities processed in-browser,… | typescript | [▶ live](https://omniikit.vercel.app/) |
+| 31 | **[iDO](https://github.com/Abudora-0/iDO)** | A focused, distraction-free task manager with priority levels and real-time stats. Built… | javascript | [▶ live](https://ido-it.vercel.app/) |
+| 32 | **[Veloci](https://github.com/Abudora-0/Veloci)** | Tauri desktop app for scanning listing pages and batch-downloading videos through a yt-d… | python | · |
+| 33 | **[Typeset](https://github.com/Abudora-0/Typeset)** | Zero-setup GitHub portfolio generator. Enter any username and get a beautiful, shareable… | typescript | [▶ live](https://typedset.vercel.app/) |
+| 34 | **[Shiori](https://github.com/Abudora-0/Shiori)** | Local-first anime, manga, manhwa and manhua tracker - import from AniList/MyAnimeList/Ki… | typescript | [▶ live](https://shiorii.vercel.app/) |
+| 35 | **[Beacon](https://github.com/Abudora-0/Beacon)** | A local dev-server control center for Windows  - scan a folder, and Beacon finds every p… | typescript | · |
+| 36 | **[Iron-Forge](https://github.com/Abudora-0/Iron-Forge)** | website build on Loveable | typescript | [▶ live](https://ironforge00.lovable.app/) |
+| 37 | **[Binge](https://github.com/Abudora-0/Binge)** | A full-stack video streaming web application built with Node.js, Express, EJS, and MySQL… | ejs | · |
+| 38 | **[Portfolio](https://github.com/Abudora-0/Portfolio)** | Personal portfolio — editorial ink & paper design.  | html | [▶ live](https://abudora.netlify.app/) |
 
-I am a Computer Science student at UET Main Campus, Lahore. Most of what I ship is local first, meaning no accounts, no telemetry and no cloud bill. The data never leaves the box it was created on.
+</details>
 
----
+<br>
 
-## Tier 1: Presentation
+### 🕯️ &nbsp;the cozy corner
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css,vite,figma&theme=dark" alt="React, Next.js, Tailwind, TypeScript, HTML, CSS, Vite, Figma" />
+<p align="center">
+  <img src="assets/stats.svg" width="49%" alt="coffee counter github stats">
+  <img src="assets/languages.svg" width="49%" alt="tea blend of top languages">
+  <img src="assets/streak.svg" width="49%" alt="candle streak of contributions">
+  <img src="assets/quote.svg" width="49%" alt="sticky note quote of the day">
+</p>
 
-What I care about here: rendering that stays predictable, state that stays where you put it, and interfaces that survive a slow connection.
+### 🌙 &nbsp;now brewing
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- <code>2h ago</code> ☕ pushed to [Summer-Projects](https://github.com/Abudora-0/Summer-Projects)
+- <code>2d ago</code> ☕ pushed to [Nexus](https://github.com/Abudora-0/Nexus)
+- <code>5h ago</code> ☕ pushed to [Cortex](https://github.com/Abudora-0/Cortex)
+- <code>3d ago</code> ☕ pushed to [Aetheria](https://github.com/Abudora-0/Aetheria)
+- <code>21h ago</code> ☕ pushed to [Bento](https://github.com/Abudora-0/Bento)
+- <code>1d ago</code> ☕ pushed to [Web-Projects](https://github.com/Abudora-0/Web-Projects)
 
-**[Omnikit](https://github.com/Abudora-0/Omnikit)**
+<br>
 
-A self hosted web toolkit of 43 utilities for images, PDFs and everyday conversions. All of it is processed in the browser. Nothing is uploaded to a server, because there is no server.
+### 🌆 &nbsp;the city outside my window
 
-`TypeScript` `In-Browser` `WebAssembly`
+<p align="center">
+  <img src="profile-3d-contrib/profile-cozy.svg" width="100%" alt="3d contribution skyline">
+</p>
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abudora-0/Abudora-0/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Abudora-0/Abudora-0/output/github-contribution-grid-snake.svg" width="100%" alt="a little snake nibbling through the contribution grid">
+  </picture>
+</p>
 
-**[Typeset](https://github.com/Abudora-0/Typeset)**
-
-A zero setup portfolio generator. Enter any GitHub username and get a shareable page instantly, with no auth and no database behind it.
-
-`TypeScript` `Next.js` `GitHub API`
-
-</td>
-</tr>
-</table>
-
----
-
-## Tier 2: Application
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,python,cpp,js,docker&theme=dark" alt="Node.js, Express, C#, .NET, Python, C++, JavaScript, Docker" />
-
-Where I actually live. Validation, auth boundaries, background work, and error paths that tell the truth about what went wrong.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Beacon](https://github.com/Abudora-0/Beacon)**
-
-A dev server control center for Windows. Point it at a folder and it finds every project, then starts each one with the correct package manager. Live logs, ports and resource usage in one dashboard.
-
-`TypeScript` `Node.js` `Windows`
-
-</td>
-<td width="50%" valign="top">
-
-**[Nexus](https://github.com/Abudora-0/Nexus)**
-
-A full retrieval pipeline running entirely on your machine. Ollama for inference, LanceDB for vectors, and no API keys, because there is nothing to authenticate against.
-
-`Python` `Ollama` `LanceDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Chronos](https://github.com/Abudora-0/Chronos)**
-
-An automation console for Windows. Run, schedule and monitor backup, sync and cleanup scripts from a single dashboard.
-
-`Python` `Scheduling` `Windows`
-
-</td>
-<td width="50%" valign="top">
-
-**[Preface](https://github.com/Abudora-0/Preface)**
-
-A README generator with a GitHub accurate live preview, eight templates, and an optional local model pass for prose. Runs fully offline.
-
-`TypeScript` `Ollama` `Markdown`
-
-</td>
-</tr>
-</table>
-
----
-
-## Tier 3: Data
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,prisma,postgres&theme=dark" alt="MySQL, MongoDB, SQLite, Prisma, PostgreSQL" />
-
-The tier that decides whether the other two are fast. Schema first, indexes on purpose, and a query plan I have actually looked at.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Binge](https://github.com/Abudora-0/Binge)**
-
-Relational schema design under real access patterns. Viewers, creators and admins, with likes, comments, watchlists, uploads and server generated PDF analytics.
-
-`Node.js` `Express` `EJS` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-**[Bento](https://github.com/Abudora-0/Bento)**
-
-A browser extension and a web client sharing one SQLite file. That file is the entire backend. No accounts, no sync service.
-
-`TypeScript` `SQLite` `Extension`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/Abudora-0?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse%20all%2035%20repositories-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="All repositories"/>
-  </a>
-</div>
-
----
-
-## Cross cutting concerns
-
-| Concern | How I handle it |
-| :--- | :--- |
-| **Source control** | Git, feature branches, commits that explain why |
-| **Delivery** | Docker, GitHub Actions, Vercel |
-| **Environment** | Windows 11 with WSL2 |
-| **Design** | Figma and Canva, enough to not need a designer for v1 |
-| **Currently studying** | Advanced data structures, database internals, system design |
-
----
-
-## Deployment metrics
+<img src="assets/footer.svg" width="100%" alt="thanks for stopping by, stay cozy">
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abudora-0&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0f6fc&area_color=1f6feb&title_color=58a6ff&custom_title=Commits%20over%20time" width="100%" alt="Commits over time" />
+<img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<br/><br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abudora-0&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" width="46%" alt="Most used languages" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abudora-0/Abudora-0/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Abudora-0/Abudora-0/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution grid" />
-</picture>
-
-</div>
-
----
-
-## Off hours processes
-
-Two background jobs that never terminate. A manga backlog that grows faster than it drains, and a Valorant rank I have stopped defending in public.
-
-There is a third. I tune and stress test my own machine the way other people tune a car, with fan curves, thermal thresholds and stability runs, none of it strictly necessary. Nothing has ever crashed. I simply want to know that it will not.
-
-It turns out to be the same instinct that makes me read a query plan before shipping.
-
----
-
-## Backlog
-
-```text
-NEXT UP
-├── Advanced data structures and algorithms
-├── Database internals, including indexes, query plans and locking
-├── Caching layers and background job queues
-└── Production deployment and observability
-
-EXPLORING
-├── Offline first sync strategies
-├── Embedded databases such as SQLite and LanceDB
-├── Local model inference pipelines
-└── Desktop packaging with Tauri and Electron
-
-OPEN TO
-├── Internships, backend or full stack
-├── Open source developer tooling
-└── Anything that removes a cloud dependency
-```
-
----
-
-<div align="center">
-
-## Open a connection
-
-Open to internships, open source work on developer tooling, and any project where the backend is the interesting part.
-
-<br/>
-
-<a href="https://linkedin.com/in/m-abdullah-94367b3a1"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://abudora-0.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=firefox-browser&logoColor=0d1117" alt="Portfolio"/></a>
-<a href="mailto:m.abdullah21306@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Abudora-0&label=PROFILE%20VIEWS&color=1f6feb&style=flat-square" alt="Profile views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=0:58a6ff,50:1f6feb,100:0d1117&reversal=true&section=footer" width="100%" alt="" />
+<sub>last brewed at 10:47 am pkt, sep 13, 2026 · the room above follows pakistan time and changes with the day ☕</sub>
 
 </div>

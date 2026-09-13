@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="270" viewBox="0 0 440 270" role="img" aria-label="Beacon: control center for every local dev server on windows">
+<title>Beacon: control center for every local dev server on windows</title>
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<defs>
+  <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.18"/><stop offset="1" stop-color="#000000" stop-opacity="0.12"/></linearGradient>
+</defs>
+<rect x="6" y="6" width="428" height="258" rx="20" fill="#f2b48c"/>
+<rect x="6" y="6" width="428" height="258" rx="20" fill="url(#sh)"/>
+<circle cx="24" cy="24" r="5" fill="#2a2540" opacity="0.35"/><path d="M21 24 h6" stroke="#f2b48c" stroke-width="1.5"/><circle cx="416" cy="24" r="5" fill="#2a2540" opacity="0.35"/><path d="M413 24 h6" stroke="#f2b48c" stroke-width="1.5"/><circle cx="24" cy="246" r="5" fill="#2a2540" opacity="0.35"/><path d="M21 246 h6" stroke="#f2b48c" stroke-width="1.5"/><circle cx="416" cy="246" r="5" fill="#2a2540" opacity="0.35"/><path d="M413 246 h6" stroke="#f2b48c" stroke-width="1.5"/>
+
+<!-- label -->
+<rect x="36" y="26" width="368" height="172" rx="10" fill="#f3e9d2"/>
+<rect x="36" y="26" width="368" height="24" rx="10" fill="#2a2540"/>
+<rect x="36" y="40" width="368" height="10" fill="#2a2540"/>
+<text x="52" y="43" font-size="11" fill="#f3e9d2" letter-spacing="1.5">SIDE A · ABUDORA TAPES</text>
+<text x="388" y="43" font-size="11" fill="#f2b48c" text-anchor="end" font-weight="700">#06</text>
+<text x="50" y="80" font-size="22" font-weight="800" fill="#2a2540">Beacon</text>
+<text x="50" y="102" font-size="12" fill="#5a5270">control center for every local dev server on</text><text x="50" y="118" font-size="12" fill="#5a5270">windows</text>
+<rect x="50" y="128" width="55" height="20" rx="10" fill="#f2b48c" fill-opacity="0.35" stroke="#2a2540" stroke-opacity="0.25"/><text x="77.5" y="142" font-size="11" text-anchor="middle" fill="#2a2540">Tauri</text><rect x="111" y="128" width="47.6" height="20" rx="10" fill="#f2b48c" fill-opacity="0.35" stroke="#2a2540" stroke-opacity="0.25"/><text x="134.8" y="142" font-size="11" text-anchor="middle" fill="#2a2540">Rust</text><rect x="164.6" y="128" width="55" height="20" rx="10" fill="#f2b48c" fill-opacity="0.35" stroke="#2a2540" stroke-opacity="0.25"/><text x="192.1" y="142" font-size="11" text-anchor="middle" fill="#2a2540">React</text>
+
+<!-- window + reels -->
+<rect x="122" y="156" width="196" height="36" rx="18" fill="#2a2540"/>
+<rect x="160" y="170" width="120" height="8" fill="#5b3b33"/>
+<g transform="translate(160 174)">
+  <circle r="15" fill="#f3e9d2"/>
+  <g><rect x="-1.6" y="-11" width="3.2" height="22" rx="1.2" fill="#2a2540" transform="rotate(0)"/><rect x="-1.6" y="-11" width="3.2" height="22" rx="1.2" fill="#2a2540" transform="rotate(60)"/><rect x="-1.6" y="-11" width="3.2" height="22" rx="1.2" fill="#2a2540" transform="rotate(120)"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.2s" repeatCount="indefinite"/></g>
+  <circle r="4" fill="#f3e9d2" stroke="#2a2540" stroke-width="2"/>
+</g>
+<g transform="translate(280 174)">
+  <circle r="15" fill="#f3e9d2"/>
+  <g><rect x="-1.6" y="-11" width="3.2" height="22" rx="1.2" fill="#2a2540" transform="rotate(0)"/><rect x="-1.6" y="-11" width="3.2" height="22" rx="1.2" fill="#2a2540" transform="rotate(60)"/><rect x="-1.6" y="-11" width="3.2" height="22" rx="1.2" fill="#2a2540" transform="rotate(120)"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="2.4s" repeatCount="indefinite"/></g>
+  <circle r="4" fill="#f3e9d2" stroke="#2a2540" stroke-width="2"/>
+</g>
+
+<!-- bottom -->
+<path d="M96 262 L116 212 H324 L344 262Z" fill="#2a2540" opacity="0.22"/>
+<circle cx="150" cy="240" r="6" fill="#2a2540" opacity="0.4"/><circle cx="200" cy="240" r="3.5" fill="#2a2540" opacity="0.4"/><circle cx="240" cy="240" r="3.5" fill="#2a2540" opacity="0.4"/><circle cx="290" cy="240" r="6" fill="#2a2540" opacity="0.4"/>
+<circle cx="52" cy="232" r="5" fill="#3178c6" stroke="#2a2540" stroke-opacity="0.4"/><text x="62" y="236" font-size="11" fill="#2a2540">typescript</text>
+<text x="400" y="236" font-size="11" fill="#2a2540" text-anchor="end" font-weight="700">▶ play</text>
+
+</svg>

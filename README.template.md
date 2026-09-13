@@ -96,6 +96,7 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <br>
 
+{{NIGHTSTAND}}
 ### 🌆 &nbsp;the city outside my window
 
 <p align="center">
@@ -107,6 +108,20 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{LOGIN}}/{{LOGIN}}/output/github-contribution-grid-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/{{LOGIN}}/{{LOGIN}}/output/github-contribution-grid-snake.svg" width="100%" alt="a little snake nibbling through the contribution grid">
   </picture>
+</p>
+
+<br>
+
+### 📝 &nbsp;the guestbook fridge
+
+<p align="center">
+  <a href="{{GUESTBOOK_URL}}"><img src="assets/fridge.svg" width="100%" alt="guestbook notes stuck on a fridge"></a>
+</p>
+
+<p align="center">
+  <a href="{{GUESTBOOK_URL}}"><img src="assets/buttons/guestbook.svg" height="44" alt="leave a note on the fridge"></a>
+  <br>
+  <sub>say hi, drop a recommendation or leave a tiny doodle in words. your note shows up here within a few minutes ♡</sub>
 </p>
 
 <img src="assets/footer.svg" width="100%" alt="thanks for stopping by, stay cozy">

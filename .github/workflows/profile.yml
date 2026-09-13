@@ -2,7 +2,7 @@ name: ☕ brew the cozy profile
 
 on:
   schedule:
-    # every 3 hours, so the room follows the time of day in Pakistan
+    # every 3 hours, so the room follows the time and weather in Lahore
     - cron: "15 */3 * * *"
   workflow_dispatch:
   push:
@@ -13,9 +13,13 @@ on:
       - "README.template.md"
       - "package*.json"
       - ".github/workflows/profile.yml"
+  # guestbook: notes arrive as issues; hide one by adding the "hidden" label
+  issues:
+    types: [opened, edited, deleted, labeled, unlabeled]
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: profile-write
@@ -23,8 +27,20 @@ concurrency:
 
 jobs:
   brew:
+    # ignore ordinary issues, only guestbook notes should rebuild the profile
+    if: github.event_name != 'issues' || contains(github.event.issue.labels.*.name, 'guestbook')
     runs-on: ubuntu-latest
     steps:
+      - name: Thank the guest and close their note
+        if: github.event_name == 'issues' && github.event.action == 'opened'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE: ${{ github.event.issue.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          gh issue comment "$ISSUE" --repo "$REPO" --body "thank you for stopping by ☕ your note is being stuck on the fridge, it'll show up on the profile in a couple of minutes ♡"
+          gh issue close "$ISSUE" --repo "$REPO" --reason completed
+
       - uses: actions/checkout@v5
 
       - uses: actions/setup-node@v5

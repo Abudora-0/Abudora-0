@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="44" viewBox="0 0 282 44" role="img" aria-label="leave a note on the fridge">
+<title>leave a note on the fridge</title>
+<style>
+  @font-face { font-family: 'JetBrains Mono'; font-weight: 400; font-style: normal; src: url(data:font/woff2;base64,d09GMgABAAAAAAVIABAAAAAACpwAAATvAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGi4bHhxaBmA/U1RBVF4AbBEICohchxoLJgABNgIkA0gEIAWEPgcgDAcbmAhRlDDOo8i+OOBNrJODlQyqGEPDSnxsaEboG1R9cV5xHfz/59/XPrfeV9VAZtrtyaBo1qR2CCGi/0+n/iCRdCcwwZlllDEyoJLC2KmvE/KKNHdYM7X8diCEyb2FQegZh4F7/V/mX7j/AeBh/8/h0n5rg88F1IsyjubGgVk01qQwgngOKtqa3gEGlh3o0QHwLXW7FF0z8ePDEJAHABAiHwKiqFvAU0YZ6tJNZ4VKIoD/AiOMJjopPj64E+U01AMaMkg7CP6bKV+RqjnzQ0mohIEIgGQgjsGdkiCyEcohBpZmIwB6p8s1juXoABik8FTF2l4DwBkqWJZ//h3B+vNUpwLa+eQOWDW7D1QQQ4gkBhThgCps+fR9uQiYeWKyKD+immLiOISpAAACHGCKlAN2ArB6gcYBOgc9TrezXenlESMAhRTgMCqYSJKUkSc7fGlDGJuOcHft8N+w3VZbbE4IOaH/aoiFXFYFFIZGAToKlABFAIBRm1Tyf4aanr0aVDYUz1fKFymfr7jPX6xQvmKF8+YZmnZbG++EoI3XfdrNMv7OnZB+C/PyxTfcHJZ+R/JpV9lwbeIcrdQNRNSqYQrRKKa2d+PtZRZcuKWXOqmRXvI0i0L6lfLh5s3RTkze4LzCcRaU9CMQ8DZUdthpabivLtr8Id5qJbStzlFOQYgFCDU2ntLhOv0WtGsorwXyItCVEdGGkyEwt1Kgrlc756ANN6+hX4Ee4sX36Skir13Y7QGzbcPW/8m4MHL73pI39pd3hzGzz5zSxtMh/SQbTvxODZ/s1OlDDtv95iuXWjTsWIMZVdltscXhT4nWk06p4V2bMV3XFR3M9HK/PXWXatd7SUgNmpLy3Rs/OWXhzGqqtYjW7Bp1X5jZ3BpPm1Vj+k2apy5TNL+5hVl0GWEWZqpwYGXVR19Gq97ACq58bS8S7WsYc3ur/8NCJSebJpgxjHhqD/O4rww+3bpL7vqxWaO6R+4N1Pb5v5Pvt+DufvJkOjKpKAo11+8aedYmpn2yT0zZWCO/W98kubY1gs08OgqOkhAUXULUr+b5ILyUWkaxXsFbxIgzL+zvUGh9E/HIBzby/tR9Unr0jsCxReXYBL/w4x1poYftg08IeMaFNdafAtixMxWMf2nVh88zq97MxlS4vPgCXvWlYeMOxug8ivw72wy7gMGQGXdKbb3IpRN0jmjSOyR0YYrb3gJ/yr7SoOXZG+TGDeHGJ/KJpXcvE/j1ZsxzIne3dxH1nj3MuWs/CDOnh8x9/WRoiMgv1zeQ4mokgTgFW1mpDgBDgdV2qfQSAdYs2t/esXl8/jZfk869BXhwffeW9PT7Vz/93DJjI9xzII4BIPi9PDZiBP/yQyjCsxRqexFcwBgb7IITPIq29n4KGecG/SQAXiGgkFySHCAOcZ7DgEAaDkUp4AQ/SpYo4yHLyMdllqONTayIOqaxYpTShxmnlkoigjwUa4v28Cp/H8Z/5wJ4YJCMFFGamkyUJAlxiJDE7JNpRMgYeSJJWoFeRlrGnEEiYg4kifLsIvIKpLF3DWqknkYaarjePagqGSxfMVqt9cLYAa+s1Q9YysrIOiF/Rx1We4PQV8GQFkQawDxrgLyMuIjQ2siODsj22/b8LHuNPXfJsgq21VffdNJo7IGgeZPfvdcCQL8L9w1OcXjq/c8yENFH9H+LMgE=) format('woff2'); }
+  text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<rect x="1" y="1" width="280" height="42" rx="21" fill="#2a2540" stroke="#9ccfb0" stroke-opacity="0.55" stroke-width="1.5"/>
+<circle cx="23" cy="22" r="14" fill="#9ccfb0" opacity="0.16"/>
+<g transform="translate(15 14) scale(0.667)" color="#9ccfb0" style="color:#9ccfb0"><path d="M4 20l1.2-4.8L16.5 3.9a2 2 0 0 1 2.8 0l.8.8a2 2 0 0 1 0 2.8L8.8 18.8z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M14.5 5.9l3.6 3.6" stroke="currentColor" stroke-width="2"/></g>
+<text x="44" y="27" font-size="14" fill="#f3e9d2">leave a note on the fridge</text>
+</svg>

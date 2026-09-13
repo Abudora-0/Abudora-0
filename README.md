@@ -134,12 +134,20 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 ### 🌙 &nbsp;now brewing
 
-- <code>1m ago</code> ☕ pushed to [Abudora-0](https://github.com/Abudora-0/Abudora-0)
-- <code>3h ago</code> ☕ pushed to [Summer-Projects](https://github.com/Abudora-0/Summer-Projects)
-- <code>2d ago</code> ☕ pushed to [Nexus](https://github.com/Abudora-0/Nexus)
-- <code>5h ago</code> ☕ pushed to [Cortex](https://github.com/Abudora-0/Cortex)
-- <code>3d ago</code> ☕ pushed to [Aetheria](https://github.com/Abudora-0/Aetheria)
-- <code>22h ago</code> ☕ pushed to [Bento](https://github.com/Abudora-0/Bento)
+- <code>3h ago</code> ☕ poured **5** commits into [Summer-Projects](https://github.com/Abudora-0/Summer-Projects)
+- <code>5h ago</code> ☕ poured **3** commits into [Cortex](https://github.com/Abudora-0/Cortex)
+- <code>19h ago</code> ☕ poured **1** commit into [Wakaru](https://github.com/Abudora-0/Wakaru)
+- <code>21h ago</code> ☕ poured **2** commits into [Bento](https://github.com/Abudora-0/Bento)
+- <code>1d ago</code> ☕ poured **13** commits into [Web-Projects](https://github.com/Abudora-0/Web-Projects)
+- <code>2d ago</code> ☕ pushed to [Aetheria](https://github.com/Abudora-0/Aetheria)
+
+<br>
+
+### 📚 &nbsp;on the nightstand
+
+<p align="center">
+  <a href="https://anilist.co/user/6107657"><img src="assets/nightstand.svg" width="100%" alt="manga i'm currently reading: Player, Aridorok, Living with Romeo, Blue Lock, The Novel's Extra, The End Has Come"></a>
+</p>
 
 <br>
 
@@ -156,12 +164,26 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
   </picture>
 </p>
 
+<br>
+
+### 📝 &nbsp;the guestbook fridge
+
+<p align="center">
+  <a href="https://github.com/Abudora-0/Abudora-0/issues/new?template=guestbook.yml"><img src="assets/fridge.svg" width="100%" alt="guestbook notes stuck on a fridge"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abudora-0/Abudora-0/issues/new?template=guestbook.yml"><img src="assets/buttons/guestbook.svg" height="44" alt="leave a note on the fridge"></a>
+  <br>
+  <sub>say hi, drop a recommendation or leave a tiny doodle in words. your note shows up here within a few minutes ♡</sub>
+</p>
+
 <img src="assets/footer.svg" width="100%" alt="thanks for stopping by, stay cozy">
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 11:05 am pkt, sep 13, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 11:15 am pkt, sep 13, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

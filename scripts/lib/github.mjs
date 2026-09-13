@@ -57,6 +57,50 @@ const CALENDAR = `query($login:String!,$from:DateTime!,$to:DateTime!){
   }
 }`;
 
+const GUESTBOOK = `query($owner:String!,$label:String!){
+  repository(owner:$owner, name:$owner){
+    issues(labels:[$label], first:40, orderBy:{field:CREATED_AT, direction:DESC}, states:[OPEN, CLOSED]){
+      nodes{ number body createdAt url author{ login avatarUrl(size:64) } labels(first:10){ nodes{ name } } }
+    }
+  }
+}`;
+
+async function dataUri(url) {
+  try {
+    const res = await fetch(url);
+    if (!res.ok) return null;
+    const type = res.headers.get('content-type') ?? 'image/png';
+    return `data:${type};base64,${Buffer.from(await res.arrayBuffer()).toString('base64')}`;
+  } catch {
+    return null;
+  }
+}
+
+/** Pull the note text out of an issue-form body ("### your note\n\n...") and tame it. */
+function noteText(body) {
+  const section = /###[^\n]*\n+([\s\S]*?)(?=\n###|$)/.exec(body ?? '')?.[1] ?? body ?? '';
+  const clean = section
+    .replace(/_No response_/g, '')
+    .replace(/https?:\/\/\S+/g, '🔗')
+    .replace(/\s+/g, ' ')
+    .replace(/[*_`#>~<]/g, '')
+    .trim();
+  return clean.length > 140 ? clean.slice(0, 138).trimEnd() + '…' : clean;
+}
+
+export async function fetchGuestbook(login, { label, hiddenLabel, max }, tk = token()) {
+  const d = await gql(GUESTBOOK, { owner: login, label }, tk);
+  const notes = [];
+  for (const i of d.repository.issues.nodes) {
+    if (i.labels.nodes.some((l) => l.name === hiddenLabel)) continue;
+    const text = noteText(i.body);
+    if (!text || !i.author) continue;
+    notes.push({ number: i.number, url: i.url, createdAt: i.createdAt, login: i.author.login, avatar: await dataUri(i.author.avatarUrl), text });
+    if (notes.length >= max) break;
+  }
+  return notes;
+}
+
 export async function fetchData(login) {
   const tk = token();
   const { user } = await gql(PROFILE, { login }, tk);
@@ -73,6 +117,16 @@ export async function fetchData(login) {
   days.sort((a, b) => a.date.localeCompare(b.date));
 
   const events = await rest(`/users/${login}/events/public?per_page=60`, tk).catch(() => []);
+  // GitHub dropped commit lists from push events; count them via compare instead
+  let compared = 0;
+  for (const e of events) {
+    if (e.type !== 'PushEvent' || compared >= 40) continue;
+    const { before, head } = e.payload;
+    if (!before || !head || /^0+$/.test(before)) continue;
+    compared++;
+    const cmp = await rest(`/repos/${e.repo.name}/compare/${before}...${head}`, tk).catch(() => null);
+    if (cmp) e.payload.size = cmp.total_commits;
+  }
 
   const repos = user.repositories.nodes;
   return {

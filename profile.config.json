@@ -213,5 +213,14 @@
     "Abudora-0",
     "Intern-48",
     "Iron-Forge"
-  ]
+  ],
+  "anilist": {
+    "username": "Deuspeu",
+    "count": 6
+  },
+  "guestbook": {
+    "label": "guestbook",
+    "hiddenLabel": "hidden",
+    "max": 8
+  }
 }

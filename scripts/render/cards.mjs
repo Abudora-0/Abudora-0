@@ -133,13 +133,14 @@ export function renderQuote({ quote, date }) {
 
 // ---------------------------------------------------------------- link pills
 const GLYPH = {
+  pen: `<path d="M4 20l1.2-4.8L16.5 3.9a2 2 0 0 1 2.8 0l.8.8a2 2 0 0 1 0 2.8L8.8 18.8z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M14.5 5.9l3.6 3.6" stroke="currentColor" stroke-width="2"/>`,
   globe: `<circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><ellipse cx="12" cy="12" rx="4" ry="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M3 12h18" stroke="currentColor" stroke-width="2"/>`,
   mail: `<rect x="3" y="5" width="18" height="14" rx="3" fill="none" stroke="currentColor" stroke-width="2"/><path d="M4 7l8 6 8-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>`,
   linkedin: `<rect x="2" y="2" width="20" height="20" rx="4" fill="currentColor"/><rect x="6" y="10" width="3" height="8" fill="${C.deep}"/><circle cx="7.5" cy="6.8" r="1.8" fill="${C.deep}"/><path d="M11.5 10h2.8v1.3c.5-.9 1.6-1.5 2.9-1.5 2.1 0 2.8 1.3 2.8 3.4V18h-3v-4.2c0-1-.3-1.7-1.2-1.7-.9 0-1.3.7-1.3 1.7V18h-3z" fill="${C.deep}"/>`,
 };
 
 export function renderButton(link, icons) {
-  const color = { portfolio: C.amber, linkedin: C.rain, email: C.rose, x: C.cream, instagram: C.lilac }[link.id] ?? C.sage;
+  const color = { portfolio: C.amber, linkedin: C.rain, email: C.rose, x: C.cream, instagram: C.lilac, guestbook: C.sage }[link.id] ?? C.sage;
   const w = Math.round(58 + link.label.length * 8.6);
   const icon = icons[link.icon];
   const glyph = icon ? `<path d="${icon.path}" fill="currentColor"/>` : GLYPH[link.icon] ?? '';

@@ -1,0 +1,19 @@
+name: 📝 leave a note on the fridge
+description: sign abudora's guestbook. your note gets stuck on the fridge in the profile README.
+title: "📝 guestbook note"
+labels: ["guestbook"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        hey, thanks for stopping by ☕
+        write a short note below and hit **submit new issue**. a little bot will stick it on the fridge in a few minutes and close this issue for you.
+        keep it kind and short (around 140 characters). links are replaced with 🔗.
+  - type: textarea
+    id: note
+    attributes:
+      label: your note
+      description: say hi, recommend a manga, or share what you're building
+      placeholder: "loved the cat. go read blue box ♡"
+    validations:
+      required: true

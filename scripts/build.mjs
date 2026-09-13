@@ -7,7 +7,9 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import * as icons from 'simple-icons';
 
-import { fetchData, loadCache, saveCache } from './lib/github.mjs';
+import { fetchData, fetchGuestbook, loadCache, saveCache } from './lib/github.mjs';
+import { fetchAniList } from './lib/anilist.mjs';
+import { renderNightstand, renderFridge } from './render/extras.mjs';
 import { localDate, mood, streaks, languages, ago } from './lib/derive.mjs';
 import { renderHeader, renderHeaderMobile } from './render/header.mjs';
 import { fetchWeather, resolveWeather } from './lib/weather.mjs';
@@ -34,6 +36,11 @@ if (args.has('--offline')) {
 } else {
   data = await fetchData(config.login);
   data.weather = await fetchWeather(config.location, config.timezone);
+  data.anilist = config.anilist ? await fetchAniList(config.anilist) : null;
+  data.guestbook = await fetchGuestbook(config.login, config.guestbook).catch((err) => {
+    console.warn(`📝 guestbook fetch failed (${err.message})`);
+    return [];
+  });
   await saveCache(CACHE, data);
   console.log(`☕ fetched ${data.repos.length} repos, ${data.days.length} calendar days, ${data.events.length} events`);
 }
@@ -62,6 +69,10 @@ out.set('quote.svg', renderQuote({ quote, date: new Date(today + 'T00:00:00Z').t
 out.set('divider.svg', renderDivider());
 out.set('footer.svg', renderDivider({ text: 'thanks for stopping by · stay cozy', seed: 11 }));
 for (const link of config.links) out.set(`buttons/${link.id}.svg`, renderButton(link, icons));
+const guestbookUrl = `https://github.com/${config.login}/${config.login}/issues/new?template=guestbook.yml`;
+out.set('buttons/guestbook.svg', renderButton({ id: 'guestbook', label: 'leave a note on the fridge', icon: 'pen' }, icons));
+out.set('fridge.svg', renderFridge(data.guestbook ?? [], { owner: config.alias.toLowerCase() }));
+if (data.anilist?.reading?.length) out.set('nightstand.svg', renderNightstand(data.anilist));
 
 const repoByName = new Map(data.repos.map((r) => [r.name.toLowerCase(), r]));
 config.featured.forEach((feature, index) => {
@@ -117,7 +128,11 @@ function describe(e) {
 }
 // collapse consecutive pushes to the same repo so the feed doesn't repeat itself
 const activity = [];
-for (const e of data.events) {
+const profileRepo = `${config.login}/${config.login}`.toLowerCase();
+const feed = data.events
+  .filter((e) => e.repo.toLowerCase() !== profileRepo)
+  .sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+for (const e of feed) {
   const prev = activity.at(-1);
   if (prev && e.type === 'PushEvent' && prev.e.type === 'PushEvent' && prev.e.repo === e.repo) {
     prev.e = { ...prev.e, payload: { ...prev.e.payload, size: (prev.e.payload.size ?? 0) + (e.payload.size ?? 0) } };
@@ -147,6 +162,10 @@ const vars = {
   MOOD_LINE: moodLine,
   UPDATED: `${clock}, ${new Date(today + 'T00:00:00Z').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).toLowerCase()}`,
   LOGIN: config.login,
+  GUESTBOOK_URL: guestbookUrl,
+  NIGHTSTAND: data.anilist?.reading?.length
+    ? `### 📚 &nbsp;on the nightstand\n\n<p align="center">\n  <a href="${data.anilist.profile}"><img src="assets/nightstand.svg" width="100%" alt="manga i'm currently reading: ${data.anilist.reading.map((m) => m.title.replace(/"/g, '')).join(', ')}"></a>\n</p>\n\n<br>\n`
+    : '',
 };
 
 const template = await readFile(join(ROOT, 'README.template.md'), 'utf8');

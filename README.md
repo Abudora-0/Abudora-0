@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>✨ 28° and clear skies over lahore right now, the cat is asleep and the code is flowing</i></sub>
+<sub><i>✨ 27° and clear skies over lahore right now, the cat is asleep and the code is flowing</i></sub>
 
 </div>
 
@@ -136,11 +136,11 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 ### 🌙 &nbsp;now brewing
 
-- <code>7h ago</code> ☕ poured **4** commits into [Nodex](https://github.com/Abudora-0/Nodex)
-- <code>17h ago</code> ☕ poured **5** commits into [Summer-Projects](https://github.com/Abudora-0/Summer-Projects)
-- <code>20h ago</code> ☕ poured **3** commits into [Cortex](https://github.com/Abudora-0/Cortex)
+- <code>10h ago</code> ☕ poured **4** commits into [Nodex](https://github.com/Abudora-0/Nodex)
+- <code>20h ago</code> ☕ poured **5** commits into [Summer-Projects](https://github.com/Abudora-0/Summer-Projects)
+- <code>22h ago</code> ☕ poured **3** commits into [Cortex](https://github.com/Abudora-0/Cortex)
 - <code>1d ago</code> ☕ poured **1** commit into [Wakaru](https://github.com/Abudora-0/Wakaru)
-- <code>1d ago</code> ☕ poured **2** commits into [Bento](https://github.com/Abudora-0/Bento)
+- <code>2d ago</code> ☕ poured **2** commits into [Bento](https://github.com/Abudora-0/Bento)
 - <code>2d ago</code> ☕ poured **1** commit into [Web-Projects](https://github.com/Abudora-0/Web-Projects)
 
 <br>
@@ -178,6 +178,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 1:50 am pkt, sep 14, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 4:11 am pkt, sep 14, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

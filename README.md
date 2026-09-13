@@ -74,7 +74,7 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 </p>
 
 <details>
-<summary><b>🎧 &nbsp;the full mixtape</b> <sub>(38 tracks, auto-updated every few hours)</sub></summary>
+<summary><b>🎧 &nbsp;the full mixtape</b> <sub>(36 tracks, auto-updated every few hours)</sub></summary>
 <br>
 
 | # | track | liner notes | flavor | listen |
@@ -106,17 +106,15 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 | 25 | **[Morphly](https://github.com/Abudora-0/Morphly)** | Paste raw text or AI-generated output, export a native .docx, .xlsx, or .pptx file. No a… | typescript | [▶ live](https://morphlyy.vercel.app/) |
 | 26 | **[Preface](https://github.com/Abudora-0/Preface)** | Dump your project in, get a well organised README out. Local-first README generator with… | typescript | [▶ live](https://prefacee.vercel.app/) |
 | 27 | **[Roleify](https://github.com/Abudora-0/Roleify)** | A CV maker where the whole interface changes mood to match your profession. Six role bas… | typescript | [▶ live](https://roleify.vercel.app) |
-| 28 | **[Intern-48](https://github.com/Abudora-0/Intern-48)** | Hey ! My name is Abdullah Akbar and i am currently doing BS in Computer Science from UET… | html | · |
-| 29 | **[Chronos](https://github.com/Abudora-0/Chronos)** | A modern automation console for Windows - run, schedule, and monitor your backup, sync,… | python | · |
-| 30 | **[Omnikit](https://github.com/Abudora-0/Omnikit)** | Self-hosted web toolkit - 43 tools for images, PDFs, and utilities processed in-browser,… | typescript | [▶ live](https://omniikit.vercel.app/) |
-| 31 | **[iDO](https://github.com/Abudora-0/iDO)** | A focused, distraction-free task manager with priority levels and real-time stats. Built… | javascript | [▶ live](https://ido-it.vercel.app/) |
-| 32 | **[Veloci](https://github.com/Abudora-0/Veloci)** | Tauri desktop app for scanning listing pages and batch-downloading videos through a yt-d… | python | · |
-| 33 | **[Typeset](https://github.com/Abudora-0/Typeset)** | Zero-setup GitHub portfolio generator. Enter any username and get a beautiful, shareable… | typescript | [▶ live](https://typedset.vercel.app/) |
-| 34 | **[Shiori](https://github.com/Abudora-0/Shiori)** | Local-first anime, manga, manhwa and manhua tracker - import from AniList/MyAnimeList/Ki… | typescript | [▶ live](https://shiorii.vercel.app/) |
-| 35 | **[Beacon](https://github.com/Abudora-0/Beacon)** | A local dev-server control center for Windows  - scan a folder, and Beacon finds every p… | typescript | · |
-| 36 | **[Iron-Forge](https://github.com/Abudora-0/Iron-Forge)** | website build on Loveable | typescript | [▶ live](https://ironforge00.lovable.app/) |
-| 37 | **[Binge](https://github.com/Abudora-0/Binge)** | A full-stack video streaming web application built with Node.js, Express, EJS, and MySQL… | ejs | · |
-| 38 | **[Portfolio](https://github.com/Abudora-0/Portfolio)** | Personal portfolio — editorial ink & paper design.  | html | [▶ live](https://abudora.netlify.app/) |
+| 28 | **[Chronos](https://github.com/Abudora-0/Chronos)** | A modern automation console for Windows - run, schedule, and monitor your backup, sync,… | python | · |
+| 29 | **[Omnikit](https://github.com/Abudora-0/Omnikit)** | Self-hosted web toolkit - 43 tools for images, PDFs, and utilities processed in-browser,… | typescript | [▶ live](https://omniikit.vercel.app/) |
+| 30 | **[iDO](https://github.com/Abudora-0/iDO)** | A focused, distraction-free task manager with priority levels and real-time stats. Built… | javascript | [▶ live](https://ido-it.vercel.app/) |
+| 31 | **[Veloci](https://github.com/Abudora-0/Veloci)** | Tauri desktop app for scanning listing pages and batch-downloading videos through a yt-d… | python | · |
+| 32 | **[Typeset](https://github.com/Abudora-0/Typeset)** | Zero-setup GitHub portfolio generator. Enter any username and get a beautiful, shareable… | typescript | [▶ live](https://typedset.vercel.app/) |
+| 33 | **[Shiori](https://github.com/Abudora-0/Shiori)** | Local-first anime, manga, manhwa and manhua tracker - import from AniList/MyAnimeList/Ki… | typescript | [▶ live](https://shiorii.vercel.app/) |
+| 34 | **[Beacon](https://github.com/Abudora-0/Beacon)** | A local dev-server control center for Windows  - scan a folder, and Beacon finds every p… | typescript | · |
+| 35 | **[Binge](https://github.com/Abudora-0/Binge)** | A full-stack video streaming web application built with Node.js, Express, EJS, and MySQL… | ejs | · |
+| 36 | **[Portfolio](https://github.com/Abudora-0/Portfolio)** | Personal portfolio — editorial ink & paper design.  | html | [▶ live](https://abudora.netlify.app/) |
 
 </details>
 
@@ -133,7 +131,7 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 ### 🌙 &nbsp;now brewing
 
-- <code>1m ago</code> ☕ pushed to [Abudora-0](https://github.com/Abudora-0/Abudora-0)
+- <code>2m ago</code> ☕ pushed to [Abudora-0](https://github.com/Abudora-0/Abudora-0)
 - <code>2h ago</code> ☕ pushed to [Summer-Projects](https://github.com/Abudora-0/Summer-Projects)
 - <code>2d ago</code> ☕ pushed to [Nexus](https://github.com/Abudora-0/Nexus)
 - <code>5h ago</code> ☕ pushed to [Cortex](https://github.com/Abudora-0/Cortex)
@@ -161,6 +159,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 10:48 am pkt, sep 13, 2026 · the room above follows pakistan time and changes with the day ☕</sub>
+<sub>last brewed at 10:50 am pkt, sep 13, 2026 · the room above follows pakistan time and changes with the day ☕</sub>
 
 </div>

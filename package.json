@@ -11,6 +11,9 @@
     "node": ">=20"
   },
   "dependencies": {
-    "simple-icons": "^16.30.0"
+    "@fontsource/caveat": "^5.3.0",
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "simple-icons": "^16.30.0",
+    "subset-font": "^2.7.0"
   }
 }

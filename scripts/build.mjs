@@ -2,14 +2,16 @@
 // Brews the whole profile: fetch GitHub data -> render SVGs -> render README.md
 //   node scripts/build.mjs            (uses GITHUB_TOKEN, or `gh auth token` locally)
 //   node scripts/build.mjs --offline  (reuses scripts/data/cache.json)
-//   node scripts/build.mjs --mood=dusk  (force a header mood, for previews)
+//   node scripts/build.mjs --mood=dusk --weather=storm  (force the scene, for previews)
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import * as icons from 'simple-icons';
 
 import { fetchData, loadCache, saveCache } from './lib/github.mjs';
 import { localDate, mood, streaks, languages, ago } from './lib/derive.mjs';
-import { renderHeader } from './render/header.mjs';
+import { renderHeader, renderHeaderMobile } from './render/header.mjs';
+import { fetchWeather, resolveWeather } from './lib/weather.mjs';
+import { embedFonts } from './lib/fonts.mjs';
 import { renderStack } from './render/stack.mjs';
 import { renderTape } from './render/tapes.mjs';
 import { renderStats, renderLanguages, renderStreak, renderQuote, renderButton, renderDivider } from './render/cards.mjs';
@@ -18,7 +20,9 @@ const ROOT = join(import.meta.dirname, '..');
 const ASSETS = join(ROOT, 'assets');
 const CACHE = join(ROOT, 'scripts', 'data', 'cache.json');
 const args = new Set(process.argv.slice(2));
-const forcedMood = [...args].find((a) => a.startsWith('--mood='))?.split('=')[1];
+const flag = (name) => [...args].find((a) => a.startsWith(`--${name}=`))?.split('=')[1];
+const forcedMood = flag('mood');
+const forcedWeather = flag('weather');
 
 const config = JSON.parse(await readFile(join(ROOT, 'profile.config.json'), 'utf8'));
 const quotes = JSON.parse(await readFile(join(ROOT, 'scripts', 'data', 'quotes.json'), 'utf8'));
@@ -29,6 +33,7 @@ if (args.has('--offline')) {
   console.log(`☁  offline build from cache (${data.fetchedAt})`);
 } else {
   data = await fetchData(config.login);
+  data.weather = await fetchWeather(config.location, config.timezone);
   await saveCache(CACHE, data);
   console.log(`☕ fetched ${data.repos.length} repos, ${data.days.length} calendar days, ${data.events.length} events`);
 }
@@ -36,7 +41,8 @@ if (args.has('--offline')) {
 const now = new Date();
 const tz = config.timezone;
 const today = localDate(tz, now);
-const moodName = forcedMood ?? mood(tz, now);
+const timeName = forcedMood ?? mood(tz, now);
+const weather = resolveWeather(data.weather, forcedWeather);
 const clock = new Intl.DateTimeFormat('en-US', { timeZone: tz, hour: 'numeric', minute: '2-digit' }).format(now).toLowerCase() + ' ' + config.timezoneLabel.toLowerCase();
 
 const streak = { ...streaks(data.days, today), since: data.user.createdAt.slice(0, 10) };
@@ -46,7 +52,8 @@ const quote = quotes[dayOfYear % quotes.length];
 
 // ------------------------------------------------------------------ SVGs
 const out = new Map();
-out.set('header.svg', renderHeader({ config, moodName, clock }));
+out.set('header.svg', renderHeader({ config, timeName, weather, clock }));
+out.set('header-mobile.svg', renderHeaderMobile({ config, timeName, weather, clock }));
 out.set('stack.svg', renderStack(config));
 out.set('stats.svg', renderStats({ totals: data.totals, streak }));
 out.set('languages.svg', renderLanguages(langs));
@@ -63,7 +70,7 @@ config.featured.forEach((feature, index) => {
 
 await mkdir(join(ASSETS, 'buttons'), { recursive: true });
 await mkdir(join(ASSETS, 'tapes'), { recursive: true });
-for (const [file, content] of out) await writeFile(join(ASSETS, file), content);
+for (const [file, content] of out) await writeFile(join(ASSETS, file), await embedFonts(content));
 
 // ------------------------------------------------------------------ README pieces
 const mdEsc = (s) => String(s ?? '').replace(/\|/g, '\\|').replace(/[<>]/g, '');
@@ -123,12 +130,13 @@ const activityMd = activity.length
   ? activity.map(({ e }) => `- <code>${ago(e.createdAt, now)}</code> ${describe(e)}`).join('\n')
   : '- <code>shh</code> the kettle is quiet right now, check back soon';
 
-const moodLine = {
-  morning: '🌤️ it\'s a drizzly morning in lahore, the lamp is off and the kettle is on',
-  afternoon: '🌦️ soft afternoon rain in lahore, a good time for deep work',
-  dusk: '🌇 dusk is settling over lahore, lamp on, second coffee poured',
-  night: '🌙 it\'s a rainy night in lahore, the cat is asleep and the code is flowing',
-}[moodName];
+const timePhrase = {
+  morning: 'the lamp is off and the kettle is on',
+  afternoon: 'a good time for deep work',
+  dusk: 'lamp on, second coffee poured',
+  night: 'the cat is asleep and the code is flowing',
+}[timeName];
+const moodLine = `${weather.emoji} ${weather.temp != null ? `${weather.temp}° and ` : ''}${weather.label} over ${config.location.name} right now, ${timePhrase}`;
 
 const vars = {
   BUTTONS: buttons,
@@ -145,4 +153,4 @@ const template = await readFile(join(ROOT, 'README.template.md'), 'utf8');
 const readme = template.replace(/\{\{(\w+)\}\}/g, (m, k) => (k in vars ? vars[k] : m));
 await writeFile(join(ROOT, 'README.md'), readme);
 
-console.log(`🕯️ brewed ${out.size} svgs + README.md · mood: ${moodName} · streak ${streak.current}/${streak.longest} · quote #${dayOfYear % quotes.length}`);
+console.log(`🕯️ brewed ${out.size} svgs + README.md · ${timeName} · ${weather.short} · streak ${streak.current}/${streak.longest} · quote #${dayOfYear % quotes.length}`);

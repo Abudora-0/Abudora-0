@@ -5,7 +5,10 @@
 
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="a cozy animated desk scene with rain on the window, a sleeping cat, a steaming mug and a laptop typing: hi, i'm abdullah (abudora), full stack developer">
+<picture>
+  <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/Abudora-0/Abudora-0/main/assets/header-mobile.svg">
+  <img src="assets/header.svg" width="100%" alt="a cozy animated desk scene: the window shows the real weather in lahore, a cat sleeps by a steaming mug and a laptop types: hi, i'm abdullah (abudora), full stack developer">
+</picture>
 
 <br>
 
@@ -13,7 +16,7 @@
 
 <br>
 
-<sub><i>🌤️ it's a drizzly morning in lahore, the lamp is off and the kettle is on</i></sub>
+<sub><i>✨ 35° and clear skies over lahore right now, a good time for deep work</i></sub>
 
 </div>
 
@@ -131,12 +134,12 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 ### 🌙 &nbsp;now brewing
 
-- <code>3m ago</code> ☕ pushed to [Abudora-0](https://github.com/Abudora-0/Abudora-0)
-- <code>2h ago</code> ☕ pushed to [Summer-Projects](https://github.com/Abudora-0/Summer-Projects)
+- <code>17m ago</code> ☕ pushed to [Abudora-0](https://github.com/Abudora-0/Abudora-0)
+- <code>3h ago</code> ☕ pushed to [Summer-Projects](https://github.com/Abudora-0/Summer-Projects)
 - <code>2d ago</code> ☕ pushed to [Nexus](https://github.com/Abudora-0/Nexus)
 - <code>5h ago</code> ☕ pushed to [Cortex](https://github.com/Abudora-0/Cortex)
 - <code>3d ago</code> ☕ pushed to [Aetheria](https://github.com/Abudora-0/Aetheria)
-- <code>21h ago</code> ☕ pushed to [Bento](https://github.com/Abudora-0/Bento)
+- <code>22h ago</code> ☕ pushed to [Bento](https://github.com/Abudora-0/Bento)
 
 <br>
 
@@ -159,6 +162,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 10:50 am pkt, sep 13, 2026 · the room above follows pakistan time and changes with the day ☕</sub>
+<sub>last brewed at 11:04 am pkt, sep 13, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

@@ -5,6 +5,11 @@
   "role": "full stack developer",
   "timezone": "Asia/Karachi",
   "timezoneLabel": "PKT",
+  "location": {
+    "name": "lahore",
+    "lat": 31.5204,
+    "lon": 74.3587
+  },
   "typing": [
     "hi, i'm abdullah (abudora)",
     "full stack developer @ uet lahore",

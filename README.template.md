@@ -5,7 +5,10 @@
 
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="a cozy animated desk scene with rain on the window, a sleeping cat, a steaming mug and a laptop typing: hi, i'm abdullah (abudora), full stack developer">
+<picture>
+  <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/{{LOGIN}}/{{LOGIN}}/main/assets/header-mobile.svg">
+  <img src="assets/header.svg" width="100%" alt="a cozy animated desk scene: the window shows the real weather in lahore, a cat sleeps by a steaming mug and a laptop types: hi, i'm abdullah (abudora), full stack developer">
+</picture>
 
 <br>
 
@@ -112,6 +115,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username={{LOGIN}}&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at {{UPDATED}} · the room above follows pakistan time and changes with the day ☕</sub>
+<sub>last brewed at {{UPDATED}} · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

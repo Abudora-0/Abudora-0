@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>✨ 31° and clear skies over lahore right now, the lamp is off and the kettle is on</i></sub>
+<sub><i>😶‍🌫️ 33° and smoggy haze over lahore right now, lamp on, second coffee poured</i></sub>
 
 </div>
 
@@ -82,9 +82,9 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 | # | track | liner notes | flavor | listen |
 |:-:|:--|:--|:--|:-:|
-| 01 | **[Veloci](https://github.com/Abudora-0/Veloci)** | Tauri desktop app for scanning listing pages and batch-downloading videos through a yt-d… | python | [▶ live](https://velocii.vercel.app) |
-| 02 | **[Shiori](https://github.com/Abudora-0/Shiori)** | Local-first anime, manga, manhwa and manhua tracker - import from AniList/MyAnimeList/Ki… | typescript | [▶ live](https://shiorii.vercel.app/) |
-| 03 | **[Beacon](https://github.com/Abudora-0/Beacon)** | A local dev-server control center for Windows  - scan a folder, and Beacon finds every p… | typescript | [▶ live](https://beacondev.vercel.app) |
+| 01 | **[Beacon](https://github.com/Abudora-0/Beacon)** | A local dev-server control center for Windows  - scan a folder, and Beacon finds every p… | typescript | [▶ live](https://beacondev.vercel.app) |
+| 02 | **[Veloci](https://github.com/Abudora-0/Veloci)** | Tauri desktop app for scanning listing pages and batch-downloading videos through a yt-d… | python | [▶ live](https://velocii.vercel.app) |
+| 03 | **[Shiori](https://github.com/Abudora-0/Shiori)** | Local-first anime, manga, manhwa and manhua tracker - import from AniList/MyAnimeList/Ki… | typescript | [▶ live](https://shiorii.vercel.app/) |
 | 04 | **[Dead-Shooter](https://github.com/Abudora-0/Dead-Shooter)** | 2D zombie arcade shooter built in C# / Windows Forms | c# | · |
 | 05 | **[Nodex](https://github.com/Abudora-0/Nodex)** | A story graph for visual novel saves: edit, repair, compare and map choices for Ren'Py,… | python | [▶ live](https://nodexx.vercel.app) |
 | 06 | **[Summer-Projects](https://github.com/Abudora-0/Summer-Projects)** | A full stack developer with a shipping problem. Nine products designed, built and deploy… | typescript | [▶ live](https://abudora-summer.vercel.app) |
@@ -136,12 +136,12 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 ### 🌙 &nbsp;now brewing
 
-- <code>15m ago</code> ☕ poured **1** commit into [Veloci](https://github.com/Abudora-0/Veloci)
-- <code>2h ago</code> ☕ poured **1** commit into [Shiori](https://github.com/Abudora-0/Shiori)
-- <code>3h ago</code> ☕ poured **1** commit into [Beacon](https://github.com/Abudora-0/Beacon)
-- <code>16h ago</code> ☕ poured **4** commits into [Nodex](https://github.com/Abudora-0/Nodex)
-- <code>1d ago</code> ☕ poured **5** commits into [Summer-Projects](https://github.com/Abudora-0/Summer-Projects)
-- <code>1d ago</code> ☕ poured **1** commit into [Cortex](https://github.com/Abudora-0/Cortex)
+- <code>7h ago</code> ☕ poured **1** commit into [Veloci](https://github.com/Abudora-0/Veloci)
+- <code>7h ago</code> 📦 released **v0.2.0** of [Veloci](https://github.com/Abudora-0/Veloci)
+- <code>8h ago</code> ☕ poured **1** commit into [Veloci](https://github.com/Abudora-0/Veloci)
+- <code>10h ago</code> ☕ poured **1** commit into [Shiori](https://github.com/Abudora-0/Shiori)
+- <code>11h ago</code> ☕ poured **1** commit into [Beacon](https://github.com/Abudora-0/Beacon)
+- <code>23h ago</code> ☕ poured **1** commit into [Nodex](https://github.com/Abudora-0/Nodex)
 
 <br>
 
@@ -178,6 +178,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 9:57 am pkt, sep 14, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 5:48 pm pkt, sep 14, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

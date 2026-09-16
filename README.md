@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>✨ 30° and clear skies over lahore right now, the lamp is off and the kettle is on</i></sub>
+<sub><i>😶‍🌫️ 33° and smoggy haze over lahore right now, a good time for deep work</i></sub>
 
 </div>
 
@@ -82,25 +82,25 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 | # | track | liner notes | flavor | listen |
 |:-:|:--|:--|:--|:-:|
-| 01 | **[Shiori](https://github.com/Abudora-0/Shiori)** | Local-first anime, manga, manhwa and manhua tracker - import from AniList/MyAnimeList/Ki… | typescript | [▶ live](https://shiorii.vercel.app/) |
-| 02 | **[Beacon](https://github.com/Abudora-0/Beacon)** | A local dev-server control center for Windows  - scan a folder, and Beacon finds every p… | typescript | [▶ live](https://beacondev.vercel.app) |
-| 03 | **[Veloci](https://github.com/Abudora-0/Veloci)** | Tauri desktop app for scanning listing pages and batch-downloading videos through a yt-d… | python | [▶ live](https://velocii.vercel.app) |
-| 04 | **[Dead-Shooter](https://github.com/Abudora-0/Dead-Shooter)** | 2D zombie arcade shooter built in C# / Windows Forms | c# | · |
-| 05 | **[Nodex](https://github.com/Abudora-0/Nodex)** | A story graph for visual novel saves: edit, repair, compare and map choices for Ren'Py,… | python | [▶ live](https://nodexx.vercel.app) |
-| 06 | **[Summer-Projects](https://github.com/Abudora-0/Summer-Projects)** | A full stack developer with a shipping problem. Nine products designed, built and deploy… | typescript | [▶ live](https://abudora-summer.vercel.app) |
-| 07 | **[Cortex](https://github.com/Abudora-0/Cortex)** | Your whole UET semester in one place: marks & CGPA, a GPA what-if lab, timetable, assign… | typescript | [▶ live](https://cortexlms.vercel.app/) |
-| 08 | **[Wakaru](https://github.com/Abudora-0/Wakaru)** | Translator, multilingual dictionary and raw manga reader. Dialect aware, built entirely… | typescript | [▶ live](https://wakaruu.vercel.app/) |
-| 09 | **[Bento](https://github.com/Abudora-0/Bento)** | Self-hosted bookmark manager in two pieces: a browser extension that captures tabs as co… | typescript | [▶ live](https://bentto.vercel.app/) |
-| 10 | **[Web-Projects](https://github.com/Abudora-0/Web-Projects)** | 40 mini web projects built from scratch - browser games, productivity tools, UI clones a… | javascript | [▶ live](https://abudora-web.vercel.app) |
-| 11 | **[Aetheria](https://github.com/Abudora-0/Aetheria)** | Automated social media scheduling and analytics suite for content creators: multi-networ… | typescript | [▶ live](https://aetheriia.vercel.app/) |
-| 12 | **[Kanzen](https://github.com/Abudora-0/Kanzen)** | Unified media and cross-platform tracker dashboard for anime, manga, books, and movies.… | typescript | [▶ live](https://kanzenn.vercel.app) |
-| 13 | **[Resume-Projects](https://github.com/Abudora-0/Resume-Projects)** | Eight shipped products, eight distinct design languages, one exhibition catalogue. Next.… | typescript | [▶ live](https://abudora-resume.vercel.app) |
-| 14 | **[Nexus](https://github.com/Abudora-0/Nexus)** | Document chat app powered by RAG - upload PDFs and ask questions. Runs fully local via O… | css | [▶ live](https://nexus-chatboot.vercel.app) |
-| 15 | **[Get-Me-a-Chai](https://github.com/Abudora-0/Get-Me-a-Chai)** | A full-stack creator support platform inspired by Patreon and Buy Me a Coffee. Fans can… | javascript | [▶ live](https://get-me-a-chaii.netlify.app/) |
-| 16 | **[Nebula](https://github.com/Abudora-0/Nebula)** | A clean, minimal password manager that runs entirely in your browser. No accounts, no se… | javascript | [▶ live](https://nebuula.vercel.app/) |
-| 17 | **[DeLinks](https://github.com/Abudora-0/DeLinks)** | A clean, minimal URL shortener that lets you create custom short links instantly - no ac… | javascript | [▶ live](https://delink.netlify.app/) |
-| 18 | **[Tessera](https://github.com/Abudora-0/Tessera)** | A generative wallpaper studio. Draw wallpapers from a seed and export them pixel perfect… | typescript | [▶ live](https://tesseera.vercel.app) |
-| 19 | **[Dish-It](https://github.com/Abudora-0/Dish-It)** | An animated recipe kitchen for food, shakes and drinks. Explore by flavor and mood, cook… | typescript | [▶ live](https://dish-itt.vercel.app) |
+| 01 | **[Dish-It](https://github.com/Abudora-0/Dish-It)** | An animated recipe kitchen for food, shakes and drinks. Explore by flavor and mood, cook… | typescript | [▶ live](https://dish-itt.vercel.app) |
+| 02 | **[Shiori](https://github.com/Abudora-0/Shiori)** | Local-first anime, manga, manhwa and manhua tracker - import from AniList/MyAnimeList/Ki… | typescript | [▶ live](https://shiorii.vercel.app/) |
+| 03 | **[Beacon](https://github.com/Abudora-0/Beacon)** | A local dev-server control center for Windows  - scan a folder, and Beacon finds every p… | typescript | [▶ live](https://beacondev.vercel.app) |
+| 04 | **[Veloci](https://github.com/Abudora-0/Veloci)** | Tauri desktop app for scanning listing pages and batch-downloading videos through a yt-d… | python | [▶ live](https://velocii.vercel.app) |
+| 05 | **[Dead-Shooter](https://github.com/Abudora-0/Dead-Shooter)** | 2D zombie arcade shooter built in C# / Windows Forms | c# | · |
+| 06 | **[Nodex](https://github.com/Abudora-0/Nodex)** | A story graph for visual novel saves: edit, repair, compare and map choices for Ren'Py,… | python | [▶ live](https://nodexx.vercel.app) |
+| 07 | **[Summer-Projects](https://github.com/Abudora-0/Summer-Projects)** | A full stack developer with a shipping problem. Nine products designed, built and deploy… | typescript | [▶ live](https://abudora-summer.vercel.app) |
+| 08 | **[Cortex](https://github.com/Abudora-0/Cortex)** | Your whole UET semester in one place: marks & CGPA, a GPA what-if lab, timetable, assign… | typescript | [▶ live](https://cortexlms.vercel.app/) |
+| 09 | **[Wakaru](https://github.com/Abudora-0/Wakaru)** | Translator, multilingual dictionary and raw manga reader. Dialect aware, built entirely… | typescript | [▶ live](https://wakaruu.vercel.app/) |
+| 10 | **[Bento](https://github.com/Abudora-0/Bento)** | Self-hosted bookmark manager in two pieces: a browser extension that captures tabs as co… | typescript | [▶ live](https://bentto.vercel.app/) |
+| 11 | **[Web-Projects](https://github.com/Abudora-0/Web-Projects)** | 40 mini web projects built from scratch - browser games, productivity tools, UI clones a… | javascript | [▶ live](https://abudora-web.vercel.app) |
+| 12 | **[Aetheria](https://github.com/Abudora-0/Aetheria)** | Automated social media scheduling and analytics suite for content creators: multi-networ… | typescript | [▶ live](https://aetheriia.vercel.app/) |
+| 13 | **[Kanzen](https://github.com/Abudora-0/Kanzen)** | Unified media and cross-platform tracker dashboard for anime, manga, books, and movies.… | typescript | [▶ live](https://kanzenn.vercel.app) |
+| 14 | **[Resume-Projects](https://github.com/Abudora-0/Resume-Projects)** | Eight shipped products, eight distinct design languages, one exhibition catalogue. Next.… | typescript | [▶ live](https://abudora-resume.vercel.app) |
+| 15 | **[Nexus](https://github.com/Abudora-0/Nexus)** | Document chat app powered by RAG - upload PDFs and ask questions. Runs fully local via O… | css | [▶ live](https://nexus-chatboot.vercel.app) |
+| 16 | **[Get-Me-a-Chai](https://github.com/Abudora-0/Get-Me-a-Chai)** | A full-stack creator support platform inspired by Patreon and Buy Me a Coffee. Fans can… | javascript | [▶ live](https://get-me-a-chaii.netlify.app/) |
+| 17 | **[Nebula](https://github.com/Abudora-0/Nebula)** | A clean, minimal password manager that runs entirely in your browser. No accounts, no se… | javascript | [▶ live](https://nebuula.vercel.app/) |
+| 18 | **[DeLinks](https://github.com/Abudora-0/DeLinks)** | A clean, minimal URL shortener that lets you create custom short links instantly - no ac… | javascript | [▶ live](https://delink.netlify.app/) |
+| 19 | **[Tessera](https://github.com/Abudora-0/Tessera)** | A generative wallpaper studio. Draw wallpapers from a seed and export them pixel perfect… | typescript | [▶ live](https://tesseera.vercel.app) |
 | 20 | **[Wanderlens](https://github.com/Abudora-0/Wanderlens)** | Spin the globe, pick anywhere on Earth, and discover the best places to visit there. Nex… | typescript | [▶ live](https://wanderlenss.vercel.app) |
 | 21 | **[Dossier](https://github.com/Abudora-0/Dossier)** | Kanban board for tracking job applications through every hiring stage, with drag-and-dro… | typescript | [▶ live](https://dosssier.vercel.app/) |
 | 22 | **[CODEREVIEW.SYS](https://github.com/Abudora-0/CODEREVIEW.SYS)** | AI-powered code review tool that scores your code and detects bugs, security vulnerabili… | typescript | [▶ live](https://codereview-sys.vercel.app/) |
@@ -136,9 +136,9 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 ### 🌙 &nbsp;now brewing
 
-- <code>15h ago</code> 🔀 closed PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
-- <code>15h ago</code> 🔀 opened PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
-- <code>15h ago</code> ☕ poured **3** commits into [Shiori](https://github.com/Abudora-0/Shiori)
+- <code>22h ago</code> 🔀 closed PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
+- <code>22h ago</code> 🔀 opened PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
+- <code>22h ago</code> ☕ poured **3** commits into [Shiori](https://github.com/Abudora-0/Shiori)
 - <code>2d ago</code> ☕ poured **2** commits into [Beacon](https://github.com/Abudora-0/Beacon)
 - <code>2d ago</code> ☕ poured **2** commits into [Veloci](https://github.com/Abudora-0/Veloci)
 - <code>2d ago</code> 📦 released **v0.2.0** of [Veloci](https://github.com/Abudora-0/Veloci)
@@ -178,6 +178,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 9:50 am pkt, sep 16, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 4:35 pm pkt, sep 16, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

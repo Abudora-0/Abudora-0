@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>✨ 27° and clear skies over lahore right now, the cat is asleep and the code is flowing</i></sub>
+<sub><i>✨ 30° and clear skies over lahore right now, the lamp is off and the kettle is on</i></sub>
 
 </div>
 
@@ -136,9 +136,9 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 ### 🌙 &nbsp;now brewing
 
-- <code>8h ago</code> 🔀 closed PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
-- <code>8h ago</code> 🔀 opened PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
-- <code>8h ago</code> ☕ poured **3** commits into [Shiori](https://github.com/Abudora-0/Shiori)
+- <code>15h ago</code> 🔀 closed PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
+- <code>15h ago</code> 🔀 opened PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
+- <code>15h ago</code> ☕ poured **3** commits into [Shiori](https://github.com/Abudora-0/Shiori)
 - <code>2d ago</code> ☕ poured **2** commits into [Beacon](https://github.com/Abudora-0/Beacon)
 - <code>2d ago</code> ☕ poured **2** commits into [Veloci](https://github.com/Abudora-0/Veloci)
 - <code>2d ago</code> 📦 released **v0.2.0** of [Veloci](https://github.com/Abudora-0/Veloci)
@@ -178,6 +178,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 2:21 am pkt, sep 16, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 9:50 am pkt, sep 16, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

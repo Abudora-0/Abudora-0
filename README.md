@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>😶‍🌫️ 26° and smoggy haze over lahore right now, the cat is asleep and the code is flowing</i></sub>
+<sub><i>😶‍🌫️ 25° and smoggy haze over lahore right now, the cat is asleep and the code is flowing</i></sub>
 
 </div>
 
@@ -137,7 +137,7 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 ### 🌙 &nbsp;now brewing
 
 - <code>1d ago</code> ⭐ starred [Concat](https://github.com/jub0t/Concat)
-- <code>7d ago</code> ☕ pushed to [Intern-48](https://github.com/Abudora-0/Intern-48)
+- <code>8d ago</code> ☕ pushed to [Intern-48](https://github.com/Abudora-0/Intern-48)
 - <code>10d ago</code> ☕ poured **1** commit into [Shiori](https://github.com/Abudora-0/Shiori)
 - <code>10d ago</code> 🔀 closed PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
 - <code>10d ago</code> 🔀 opened PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
@@ -178,6 +178,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 10:12 pm pkt, sep 25, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 2:35 am pkt, sep 26, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

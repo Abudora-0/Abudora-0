@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>✨ 23° and clear skies over lahore right now, lamp on, second coffee poured</i></sub>
+<sub><i>✨ 20° and clear skies over lahore right now, the cat is asleep and the code is flowing</i></sub>
 
 </div>
 
@@ -141,7 +141,7 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 - <code>26d ago</code> 🔀 closed PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
 - <code>26d ago</code> 🔀 opened PR #1 in [Shiori](https://github.com/Abudora-0/Shiori): 
 - <code>26d ago</code> ☕ poured **3** commits into [Shiori](https://github.com/Abudora-0/Shiori)
-- <code>27d ago</code> ☕ poured **1** commit into [Beacon](https://github.com/Abudora-0/Beacon)
+- <code>28d ago</code> ☕ poured **1** commit into [Beacon](https://github.com/Abudora-0/Beacon)
 
 <br>
 
@@ -178,6 +178,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 5:51 pm pkt, oct 11, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 12:34 am pkt, oct 12, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

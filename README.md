@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>😶‍🌫️ 21° and smoggy haze over lahore right now, the cat is asleep and the code is flowing</i></sub>
+<sub><i>😶‍🌫️ 18° and smoggy haze over lahore right now, the cat is asleep and the code is flowing</i></sub>
 
 </div>
 
@@ -136,9 +136,8 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 ### 🌙 &nbsp;now brewing
 
-- <code>1d ago</code> ⭐ starred [cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+- <code>2d ago</code> ⭐ starred [cleanyourtv](https://github.com/Gathin23/cleanyourtv)
 - <code>2d ago</code> ⭐ starred [spotify-downloader](https://github.com/spotDL/spotify-downloader)
-- <code>sep 24</code> ⭐ starred [Concat](https://github.com/jub0t/Concat)
 
 <br>
 
@@ -175,6 +174,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 8:57 pm pkt, oct 24, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 1:50 am pkt, oct 25, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

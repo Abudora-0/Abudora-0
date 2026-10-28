@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>😶‍🌫️ 26° and smoggy haze over lahore right now, the lamp is off and the kettle is on</i></sub>
+<sub><i>😶‍🌫️ 24° and smoggy haze over lahore right now, lamp on, second coffee poured</i></sub>
 
 </div>
 
@@ -82,8 +82,8 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 | # | track | liner notes | flavor | listen |
 |:-:|:--|:--|:--|:-:|
-| 01 | **[Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)** | Aab-e-Panah is a web based coordination system that models a flood zone as a road networ… | · | · |
-| 02 | **[Dish-It](https://github.com/Abudora-0/Dish-It)** | An animated recipe kitchen for food, shakes and drinks. Explore by flavor and mood, cook… | typescript | [▶ live](https://dish-itt.vercel.app) |
+| 01 | **[Dish-It](https://github.com/Abudora-0/Dish-It)** | An animated recipe kitchen for food, shakes and drinks. Explore by flavor and mood, cook… | typescript | [▶ live](https://dish-itt.vercel.app) |
+| 02 | **[Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)** | Aab-e-Panah is a web based coordination system that models a flood zone as a road networ… | · | · |
 | 03 | **[Shiori](https://github.com/Abudora-0/Shiori)** | Local-first anime, manga, manhwa and manhua tracker - import from AniList/MyAnimeList/Ki… | typescript | [▶ live](https://shiorii.vercel.app/) |
 | 04 | **[Beacon](https://github.com/Abudora-0/Beacon)** | A local dev-server control center for Windows  - scan a folder, and Beacon finds every p… | typescript | [▶ live](https://beacondev.vercel.app) |
 | 05 | **[Veloci](https://github.com/Abudora-0/Veloci)** | Tauri desktop app for scanning listing pages and batch-downloading videos through a yt-d… | python | [▶ live](https://velocii.vercel.app) |
@@ -175,6 +175,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 10:42 am pkt, oct 28, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 5:55 pm pkt, oct 28, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

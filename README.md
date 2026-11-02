@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>😶‍🌫️ 19° and smoggy haze over lahore right now, the lamp is off and the kettle is on</i></sub>
+<sub><i>😶‍🌫️ 27° and smoggy haze over lahore right now, a good time for deep work</i></sub>
 
 </div>
 
@@ -137,12 +137,12 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 ### 🌙 &nbsp;now brewing
 
-- <code>21h ago</code> ⭐ starred [NewPipe](https://github.com/TeamNewPipe/NewPipe)
-- <code>21h ago</code> ⭐ starred [aniyomi](https://github.com/aniyomiorg/aniyomi)
-- <code>21h ago</code> ⭐ starred [mihon](https://github.com/mihonapp/mihon)
-- <code>24h ago</code> ⭐ starred [developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-- <code>24h ago</code> ⭐ starred [Echo-Music](https://github.com/EchoMusicApp/Echo-Music)
-- <code>2d ago</code> ☕ poured **1** commit into [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)
+- <code>3h ago</code> 🔀 opened PR #1 in [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah): 
+- <code>1d ago</code> ⭐ starred [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+- <code>1d ago</code> ⭐ starred [aniyomi](https://github.com/aniyomiorg/aniyomi)
+- <code>1d ago</code> ⭐ starred [mihon](https://github.com/mihonapp/mihon)
+- <code>1d ago</code> ⭐ starred [developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+- <code>1d ago</code> ⭐ starred [Echo-Music](https://github.com/EchoMusicApp/Echo-Music)
 
 <br>
 
@@ -179,6 +179,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 5:44 am pkt, nov 2, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 4:08 pm pkt, nov 2, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

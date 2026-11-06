@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>😶‍🌫️ 21° and smoggy haze over lahore right now, the cat is asleep and the code is flowing</i></sub>
+<sub><i>😶‍🌫️ 19° and smoggy haze over lahore right now, the cat is asleep and the code is flowing</i></sub>
 
 </div>
 
@@ -137,12 +137,12 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 ### 🌙 &nbsp;now brewing
 
-- <code>16h ago</code> ☕ poured **6** commits into [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)
+- <code>22h ago</code> ☕ poured **6** commits into [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)
 - <code>1d ago</code> ⭐ starred [claude-howto](https://github.com/luongnv89/claude-howto)
 - <code>1d ago</code> ⭐ starred [galaxy](https://github.com/uiverse-io/galaxy)
 - <code>1d ago</code> ⭐ starred [zapfast](https://github.com/crmne/zapfast)
-- <code>1d ago</code> ☕ poured **19** commits into [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)
-- <code>4d ago</code> 🔀 opened PR #1 in [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah): 
+- <code>2d ago</code> ☕ poured **19** commits into [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)
+- <code>5d ago</code> 🔀 opened PR #1 in [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah): 
 
 <br>
 
@@ -179,6 +179,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 9:46 pm pkt, nov 6, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 4:08 am pkt, nov 7, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

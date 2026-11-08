@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>😶‍🌫️ 29° and smoggy haze over lahore right now, a good time for deep work</i></sub>
+<sub><i>😶‍🌫️ 20° and smoggy haze over lahore right now, the cat is asleep and the code is flowing</i></sub>
 
 </div>
 
@@ -138,12 +138,12 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 ### 🌙 &nbsp;now brewing
 
-- <code>1d ago</code> ☕ poured **5** commits into [Hamnawa](https://github.com/Abudora-0/Hamnawa)
-- <code>1d ago</code> ⭐ starred [TwinDesk](https://github.com/InukaAsith/TwinDesk)
-- <code>2d ago</code> ☕ poured **6** commits into [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)
+- <code>8h ago</code> ☕ poured **3** commits into [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)
+- <code>2d ago</code> ☕ poured **5** commits into [Hamnawa](https://github.com/Abudora-0/Hamnawa)
+- <code>2d ago</code> ⭐ starred [TwinDesk](https://github.com/InukaAsith/TwinDesk)
+- <code>3d ago</code> ☕ poured **6** commits into [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)
 - <code>3d ago</code> ⭐ starred [claude-howto](https://github.com/luongnv89/claude-howto)
 - <code>3d ago</code> ⭐ starred [galaxy](https://github.com/uiverse-io/galaxy)
-- <code>3d ago</code> ⭐ starred [zapfast](https://github.com/crmne/zapfast)
 
 <br>
 
@@ -180,6 +180,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 3:23 pm pkt, nov 8, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 10:55 pm pkt, nov 8, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

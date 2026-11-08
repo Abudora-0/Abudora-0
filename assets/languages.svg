@@ -23,25 +23,25 @@
 <clipPath id="bar"><rect x="28" y="72" width="439" height="16" rx="8"/></clipPath>
 <rect x="28" y="72" width="439" height="16" rx="8" fill="#3a3354"/>
 <g clip-path="url(#bar)"><rect x="28.00" y="72" width="0" height="16" fill="#3178c6">
-    <animate attributeName="width" from="0" to="229.05" begin="0.00s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
+    <animate attributeName="width" from="0" to="228.95" begin="0.00s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
   </rect>
-<rect x="258.55" y="72" width="0" height="16" fill="#f1e05a">
-    <animate attributeName="width" from="0" to="73.13" begin="0.12s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
+<rect x="258.45" y="72" width="0" height="16" fill="#f1e05a">
+    <animate attributeName="width" from="0" to="73.10" begin="0.12s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
   </rect>
-<rect x="333.18" y="72" width="0" height="16" fill="#663399">
-    <animate attributeName="width" from="0" to="59.89" begin="0.24s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
+<rect x="333.05" y="72" width="0" height="16" fill="#663399">
+    <animate attributeName="width" from="0" to="59.87" begin="0.24s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
   </rect>
-<rect x="394.58" y="72" width="0" height="16" fill="#e34c26">
-    <animate attributeName="width" from="0" to="31.46" begin="0.36s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
+<rect x="394.42" y="72" width="0" height="16" fill="#e34c26">
+    <animate attributeName="width" from="0" to="31.44" begin="0.36s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
   </rect>
-<rect x="427.53" y="72" width="0" height="16" fill="#3572A5">
-    <animate attributeName="width" from="0" to="21.19" begin="0.48s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
+<rect x="427.36" y="72" width="0" height="16" fill="#3572A5">
+    <animate attributeName="width" from="0" to="21.37" begin="0.48s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
   </rect>
-<rect x="450.22" y="72" width="0" height="16" fill="#a91e50">
-    <animate attributeName="width" from="0" to="10.01" begin="0.60s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
+<rect x="450.23" y="72" width="0" height="16" fill="#a91e50">
+    <animate attributeName="width" from="0" to="10.00" begin="0.60s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
   </rect>
 <rect x="461.73" y="72" width="0" height="16" fill="#7355dd">
-    <animate attributeName="width" from="0" to="1.18" begin="0.72s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
+    <animate attributeName="width" from="0" to="1.17" begin="0.72s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
   </rect>
 <rect x="464.40" y="72" width="0" height="16" fill="#6e6690">
     <animate attributeName="width" from="0" to="1.10" begin="0.84s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>

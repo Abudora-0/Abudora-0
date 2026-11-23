@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>😶‍🌫️ 13° and smoggy haze over lahore right now, the lamp is off and the kettle is on</i></sub>
+<sub><i>😶‍🌫️ 21° and smoggy haze over lahore right now, lamp on, second coffee poured</i></sub>
 
 </div>
 
@@ -180,6 +180,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 6:43 am pkt, nov 23, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 5:41 pm pkt, nov 23, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>

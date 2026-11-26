@@ -16,7 +16,7 @@
 
 <br>
 
-<sub><i>😶‍🌫️ 16° and smoggy haze over lahore right now, the cat is asleep and the code is flowing</i></sub>
+<sub><i>😶‍🌫️ 15° and smoggy haze over lahore right now, the lamp is off and the kettle is on</i></sub>
 
 </div>
 
@@ -82,9 +82,9 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 | # | track | liner notes | flavor | listen |
 |:-:|:--|:--|:--|:-:|
-| 01 | **[Dish-It](https://github.com/Abudora-0/Dish-It)** | An animated recipe kitchen for food, shakes and drinks. Explore by flavor and mood, cook… | typescript | [▶ live](https://dish-itt.vercel.app) |
-| 02 | **[Hamnawa](https://github.com/Abudora-0/Hamnawa)** | Accessible Document Reader for Visually Impaired Students | javascript | · |
-| 03 | **[Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)** | Aab-e-Panah is a web based coordination system that models a flood zone as a road networ… | python | · |
+| 01 | **[Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)** | Aab-e-Panah is a web based coordination system that models a flood zone as a road networ… | python | · |
+| 02 | **[Dish-It](https://github.com/Abudora-0/Dish-It)** | An animated recipe kitchen for food, shakes and drinks. Explore by flavor and mood, cook… | typescript | [▶ live](https://dish-itt.vercel.app) |
+| 03 | **[Hamnawa](https://github.com/Abudora-0/Hamnawa)** | Accessible Document Reader for Visually Impaired Students | javascript | · |
 | 04 | **[Shiori](https://github.com/Abudora-0/Shiori)** | Local-first anime, manga, manhwa and manhua tracker - import from AniList/MyAnimeList/Ki… | typescript | [▶ live](https://shiorii.vercel.app/) |
 | 05 | **[Beacon](https://github.com/Abudora-0/Beacon)** | A local dev-server control center for Windows  - scan a folder, and Beacon finds every p… | typescript | [▶ live](https://beacondev.vercel.app) |
 | 06 | **[Veloci](https://github.com/Abudora-0/Veloci)** | Tauri desktop app for scanning listing pages and batch-downloading videos through a yt-d… | python | [▶ live](https://velocii.vercel.app) |
@@ -139,9 +139,9 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 ### 🌙 &nbsp;now brewing
 
 - <code>8d ago</code> ☕ poured **1** commit into [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)
-- <code>9d ago</code> ☕ poured **25** commits into [Hamnawa](https://github.com/Abudora-0/Hamnawa)
-- <code>12d ago</code> ⭐ starred [takeoff-launcher](https://github.com/akiraeng/takeoff-launcher)
-- <code>17d ago</code> ☕ poured **7** commits into [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)
+- <code>10d ago</code> ☕ poured **25** commits into [Hamnawa](https://github.com/Abudora-0/Hamnawa)
+- <code>13d ago</code> ⭐ starred [takeoff-launcher](https://github.com/akiraeng/takeoff-launcher)
+- <code>18d ago</code> ☕ poured **7** commits into [Aab-e-Panah](https://github.com/Abudora-0/Aab-e-Panah)
 - <code>19d ago</code> ☕ poured **6** commits into [Hamnawa](https://github.com/Abudora-0/Hamnawa)
 - <code>19d ago</code> ⭐ starred [TwinDesk](https://github.com/InukaAsith/TwinDesk)
 
@@ -180,6 +180,6 @@ i like software that feels calm to use: no accounts you didn't ask for, no telem
 
 <img src="https://komarev.com/ghpvc/?username=Abudora-0&label=visitors%20warmed%20up&color=f6c177&style=flat-square&labelColor=2a2540" alt="profile visitors">
 
-<sub>last brewed at 12:16 am pkt, nov 26, 2026 · the window follows the real time and weather in lahore ☕</sub>
+<sub>last brewed at 8:34 am pkt, nov 26, 2026 · the window follows the real time and weather in lahore ☕</sub>
 
 </div>
